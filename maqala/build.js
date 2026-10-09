@@ -5,7 +5,7 @@ const {
   Document, Packer, Paragraph, TextRun, AlignmentType, PageBreak, Header,
   PageNumber, BorderStyle, Table, TableRow, TableCell, WidthType, ShadingType,
   FootnoteReferenceRun, HeadingLevel, TableOfContents, VerticalAlign,
-  LineRuleType,
+  LineRuleType, Bookmark, PageReference,
 } = require('docx');
 
 const UR = 'Alvi Nastaleeq';
@@ -16,6 +16,8 @@ const GRAY = 'EDEDED';
 
 const footnotes = {};
 let fnCount = 0;
+const ayat = [], ahadees = [];
+let bmCount = 0, lastAr = '';
 
 function font(name) { return { ascii: name, hAnsi: name, cs: name, eastAsia: name }; }
 
@@ -23,7 +25,7 @@ function font(name) { return { ascii: name, hAnsi: name, cs: name, eastAsia: nam
 function runs(text, o = {}) {
   const out = [];
   const size = o.size || BODY;
-  const re = /(\[\^[\s\S]*?\^\])|(\*\*[\s\S]*?\*\*)|(\{ar\}[\s\S]*?\{\/ar\})|(\{en\}[\s\S]*?\{\/en\})/g;
+  const re = /(\[\^[\s\S]*?\^\])|(\*\*[\s\S]*?\*\*)|(\{ar\}[\s\S]*?\{\/ar\})|(\{en\}[\s\S]*?\{\/en\})|(\{hd:[\s\S]*?\})/g;
   let last = 0, m;
   const push = (t, extra = {}) => {
     if (!t) return;
@@ -40,11 +42,22 @@ function runs(text, o = {}) {
     push(text.slice(last, m.index));
     const s = m[0];
     if (m[1]) {
+      const ft = s.slice(2, -2).trim();
+      if (/^سورۃ/.test(ft)) {
+        const id = 'ay' + (++bmCount);
+        out.push(new Bookmark({ id, children: [new TextRun('')] }));
+        ayat.push({ ref: ft, ar: o.arCtx || lastAr, bm: id });
+      }
       fnCount++;
-      footnotes[fnCount] = { children: [fnPara(s.slice(2, -2).trim())] };
+      footnotes[fnCount] = { children: [fnPara(ft)] };
       out.push(new FootnoteReferenceRun(fnCount));
     } else if (m[2]) push(s.slice(2, -2), { bold: true });
-    else if (m[3]) push(s.slice(4, -5), { ar: true });
+    else if (m[3]) { lastAr = s.slice(4, -5); push(lastAr, { ar: true }); }
+    else if (m[5]) {
+      const id = 'hd' + (++bmCount);
+      out.push(new Bookmark({ id, children: [new TextRun('')] }));
+      ahadees.push({ label: s.slice(4, -1).trim(), bm: id });
+    }
     else if (m[4]) push(s.slice(4, -5), { en: true });
     last = m.index + s.length;
   }
@@ -170,6 +183,45 @@ function baabPage(line1, line2) {
   ];
 }
 
+// ---------- indexes (page numbers filled by Word via PAGEREF) ----------
+const SURAH = ['الفاتحۃ','البقرۃ','آلِ عمران','النساء','المائدۃ','الانعام','الاعراف','الانفال','التوبۃ','یونس','ہود','یوسف','الرعد','ابراہیم','الحجر','النحل','بنی اسرائیل','الکہف','مریم','طٰہٰ','الانبیاء','الحج','المؤمنون','النور','الفرقان','الشعراء','النمل','القصص','العنکبوت','الروم','لقمان','السجدۃ','الاحزاب','سبا','فاطر','یٰس','الصافات','ص','الزمر','المؤمن','حٰم السجدۃ','الشوریٰ','الزخرف','الدخان','الجاثیۃ','الاحقاف','محمد','الفتح','الحجرات','ق','الذاریات','الطور','النجم','القمر','الرحمٰن','الواقعۃ','الحدید','المجادلۃ','الحشر','الممتحنۃ','الصف','الجمعۃ','المنافقون','التغابن','الطلاق','التحریم','الملک','القلم','الحاقۃ','المعارج','نوح','الجن','المزمل','المدثر','القیامۃ','الدہر','المرسلات','النبا','النازعات','عبس','التکویر','الانفطار','المطففین','الانشقاق','البروج','الطارق','الاعلیٰ','الغاشیۃ','الفجر','البلد','الشمس','اللیل','الضحیٰ','الانشراح','التین','العلق'];
+function pageCell(bm, w) {
+  return new TableCell({
+    width: { size: w, type: WidthType.DXA }, verticalAlign: VerticalAlign.CENTER,
+    margins: { top: 60, bottom: 60, left: 100, right: 100 },
+    children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new PageReference(bm, { font: font('Times New Roman'), size: 22 })] })],
+  });
+}
+function indexTable(widths, header, rows) {
+  const total = widths.reduce((a, b) => a + b, 0);
+  return new Table({
+    visuallyRightToLeft: true, width: { size: total, type: WidthType.DXA }, columnWidths: widths, alignment: AlignmentType.CENTER,
+    rows: [
+      new TableRow({ tableHeader: true, children: header.map((t, j) => cell(t, widths[j], { bold: true, fill: GRAY, size: 24 })) }),
+      ...rows.map(r => new TableRow({ children: r.map((c, j) => typeof c === 'string' ? cell(c, widths[j], { size: 24 }) : c.bm ? pageCell(c.bm, widths[j]) : cell(c.t, widths[j], { size: c.size, align: c.align })) })),
+    ],
+  });
+}
+function fehristAyat() {
+  const seen = new Set(), items = [];
+  for (const a of ayat) {
+    const m = a.ref.match(/^سورۃ\s+(.+?):\s*(\d+)(?:\s*تا\s*(\d+))?/);
+    if (!m) continue;
+    const key = m[1] + ':' + m[2] + (m[3] ? '-' + m[3] : '');
+    if (seen.has(key)) continue; seen.add(key);
+    const idx = SURAH.indexOf(m[1].trim());
+    const words = (a.ar || '').split(/\s+/).filter(Boolean).slice(0, 5).join(' ');
+    items.push({ surah: m[1].trim(), idx: idx < 0 ? 999 : idx, n: +m[2], ayah: m[3] ? m[2] + ' تا ' + m[3] : m[2], words, bm: a.bm });
+  }
+  items.sort((x, y) => x.idx - y.idx || x.n - y.n);
+  return [indexTable([800, 4300, 1700, 1100, 1100], ['نمبر شمار', 'آیتِ مبارکہ (ابتدائی کلمات)', 'سورۃ', 'آیت', 'صفحہ'],
+    items.map((it, i) => [String(i + 1), { t: '{ar}' + (it.words ? it.words + ' ...' : '—') + '{/ar}', size: 22 }, it.surah, it.ayah, { bm: it.bm }]))];
+}
+function fehristAhadees() {
+  return [indexTable([800, 7200, 1100], ['نمبر شمار', 'حدیث / اثر (مختصر)', 'صفحہ'],
+    ahadees.map((h, i) => [String(i + 1), { t: h.label, size: 24, align: AlignmentType.RIGHT }, { bm: h.bm }]))];
+}
+
 // ---------- markup parser ----------
 function parse(src, meta) {
   const out = [];
@@ -181,6 +233,8 @@ function parse(src, meta) {
     else if (b === '@result-page') out.push(...resultPage());
     else if (b === '@calli-page') out.push(...calliPage(meta));
     else if (b === '@toc') out.push(...tocPage());
+    else if (b === '@fehrist-ayat') out.push(...fehristAyat());
+    else if (b === '@fehrist-ahadees') out.push(...fehristAhadees());
     else if (b.startsWith('@baab ')) { const [a, c] = b.slice(6).split('|'); out.push(...baabPage(a.trim(), c.trim())); }
     else if (b.startsWith('@center ')) out.push(para(b.slice(8), { align: AlignmentType.CENTER, size: 34, line: 400 }));
     else if (b.startsWith('@sign')) {
@@ -197,7 +251,7 @@ function parse(src, meta) {
     else if (b.startsWith('#### ')) out.push(para(b.slice(5), { size: 30, bold: true, before: 100, after: 60, keepNext: true }));
     else if (b.startsWith('> ')) {
       const m = b.slice(2).replace(/\n/g, ' ').match(/^([\s\S]*?)(\[\^[\s\S]*\^\])?$/);
-      out.push(para('{ar}' + m[1].trim() + '{/ar}' + (m[2] || ''), { align: AlignmentType.CENTER, size: 30, line: 360, after: 60, keepNext: true }));
+      out.push(para('{ar}' + m[1].trim() + '{/ar}' + (m[2] || ''), { align: AlignmentType.CENTER, size: 30, line: 360, after: 60, keepNext: true, arCtx: m[1].trim() }));
     }
     else if (b.startsWith('T: ')) out.push(para('**ترجمہ:** ' + b.slice(3), { after: 160 }));
     else if (b.startsWith('- ')) for (const l of b.split('\n')) out.push(para('٭ ' + l.replace(/^- /, ''), { indent: { start: 300 }, after: 80 }));
