@@ -49,6 +49,7 @@
 "Repo" = GitHub ریپو میں موجود فائل۔ "Release: books / more_books" = Releases میں اپ لوڈ کی گئی فائل۔
 (کتاب کا چھپا ہوا صفحہ نمبر حاشیے میں ہے؛ PDF صفحہ نمبر صرف آپ کی سہولت کے لیے ہے۔)
 
+
 ### مقدمہ
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
@@ -61,7 +62,7 @@
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
 | 3 | صحیح البخاری، کتاب الایمان، حدیث: 8، ج1، ص14، بحوالہ فیضانِ زکوٰۃ، ص1۔ | faizan-e-zakat.pdf | Repo | 16 |
-| 4 | Faiz Mohammad, "Prospects of Poverty Eradication Through the Existing Zakat System in Pakistan", The Pakistan Development Review, Vol. 30, No. 4, Part II (Winter 1991), Pakistan Institute of Development Economics, Islamabad, p. 1119. | ahmed,+1119-1129.pdf | Repo | 1 |
+| 4 | Faiz Mohammad, "Prospects of Poverty Eradication Through the Existing Zakat System in Pakistan", The Pakistan Development Review, Vol. 30, No. 4, Part II (Winter 1991), p. 1119. | ahmed,+1119-1129.pdf | Repo | 1 |
 | 5 | Wahyuni & Wulandari, op. cit., p. 206. | 33086-Article Text-...pdf | Repo | 2 |
 
 ### سابقہ کام کا جائزہ
