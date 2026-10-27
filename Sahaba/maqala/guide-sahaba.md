@@ -1,372 +1,444 @@
-# رہنما فائل — مقالہ "صحابۂ کرام علیہم الرضوان کی عسکری مہمات کا تفصیلی مطالعہ"
+# رہنما فائل — مقالہ "صحابۂ کرام علیہم الرضوان کی عسکری مہمات کا تفصیلی مطالعہ" (نظرِ ثانی شدہ)
 
 **یہ فائل صرف آپ کی جانچ کے لیے ہے، مقالے کا حصہ نہیں۔**
-**مکمل مقالے کی فائل:** `Sahaba/maqala/maqala-sahaba-mukammal.docx` (سرورق سے فہرستِ مصادر تک سب کچھ ایک ہی فائل میں)۔
-کل حواشی: **247**، فہرستِ آیات: **10**، فہرستِ احادیث و آثار: **24**، مصادر و مراجع: **7**۔
+**مکمل مقالے کی فائل:** `Sahaba/maqala/maqala-sahaba-mukammal.docx`
+کل حواشی: **301**، فہرستِ آیات: **11**، فہرستِ احادیث و آثار: **24**، مصادر و مراجع: **8**۔
 
 ---
 
-## 1۔ موضوع کے نکات اور مقالے میں ان کی جگہ
+## 1۔ اس نظرِ ثانی میں کیا بدلا
 
-| موضوع کا نکتہ (تصویر کے مطابق) | مقالے میں کہاں |
+| تبدیلی | تفصیل |
 |---|---|
-| سریہ کا لغوی و اصطلاحی مفہوم | باب اول، فصل اول |
-| بنیادی مقاصد | باب اول، فصل سوم (+ پس منظر: فصل دوم) |
-| سرایا کی عددی تفصیل مع تواریخ | باب دوم، تینوں فصلیں (تین جدول: بدر سے پہلے، بدر تا حدیبیہ، حدیبیہ کے بعد) |
-| اسباب و نتائج | باب دوم میں ہر سریے کے ساتھ "نتیجہ"، اور آخر میں "مجموعی اسباب و نتائج" |
-| قیادت و حکمتِ عملی کا فرق | باب سوم، فصل اول (آخر میں غزوہ اور سریہ کی قیادت کا تقابلی جدول) |
-| مطالعۂ سرایا کے عصری تقاضے اور اہمیت | باب سوم، فصل سوم |
-| نتائج | ہر باب کا خلاصہ + آخر میں "نتائجِ تحقیق" (7 نکات) |
-
-اس کے علاوہ باب سوم، فصل دوم میں نبوی جنگی اخلاقیات اور سرایا میں احتساب (نخلہ، اسامہ، محلم، بنو جذیمہ، حسمیٰ) پر الگ بحث ہے۔
+| بنیادی ماخذ | الرحیق المختوم، غزوات النبی (حلبی) اور Saifullah کی جگہ اب **المواہب اللدنیہ ج1** اور **مدارج النبوۃ ج2** بنیادی ماخذ ہیں۔ |
+| قرآنی ترجمہ | تمام آیات کا ترجمہ **کنز الایمان** سے؛ ہر آیت کے حاشیے میں سورت، آیت اور کنز الایمان کا صفحہ۔ |
+| غزوات النبی (حلبی) | مکمل طور پر ہٹا دی گئی؛ اب کوئی حوالہ نہیں۔ |
+| Saifullah | چاروں حواشی ہٹا دیے گئے: موتہ کے نتیجے کی آراء → مواہب ص401؛ لشکرِ اسامہ کی واپسی → مواہب ص490 و مدارج ص477؛ ثابت بن اقرم اور خالد کا مکالمہ → مدارج ص329؛ "تین راستوں" والا تجزیہ → راقم کا تجزیہ (مدارج ص330 کی بنیاد پر)۔ |
+| الرحیق کی آراء | مولانا مبارکپوری اور علامہ شبلی کے اپنے تجزیاتی جملے (مثلاً "طلایہ گردی"، "تین سو میل"، "بدترین جرم") اب **راقم کے تجزیے** کے طور پر بغیر حوالے کے لکھے گئے ہیں۔ |
+| عصرِ حاضر | باب سوم کی فصل سوم، مقدمے کا "موضوع کی ضرورت و اہمیت"، علامہ شبلی کا مستشرقین والا رد اور ڈاکٹر حمیداللہ کا مواد **جوں کا توں** رکھا گیا ہے (آپ کی ہدایت کے مطابق)۔ |
+| فارمیٹ | جمیل نوری نستعلیق (اردو)، Al Mushaf (عربی)، تنظیم کے مطابق سائز؛ سرورق پر لوگو اور آپ کی دی ہوئی تفصیلات؛ مقدمہ تنظیم کی ترتیب میں (تعارف، اہمیت، سابقہ کام، سوالات و اہداف، وجۂ انتخاب، اسلوب، خاکہ)۔ |
 
 ---
 
-## 2۔ کتابیں: کون سی استعمال ہوئیں، کون سی نہیں
+## 2۔ وہ مواد جو نئی کتابوں میں نہیں ملا اور الرحیق ہی کے حوالے سے رکھا گیا
 
-**استعمال ہوئیں (ریلیز Sahaba):**
+یہ واقعات/روایات مواہب اور مدارج کے متعلقہ صفحات میں تلاش کے باوجود نہیں ملیں۔ انہیں حذف کرنے کے بجائے دیانت داری سے **الرحیق المختوم** کے حوالے کے ساتھ رکھا گیا ہے (کل 17 حواشی)۔ اگر آپ چاہیں تو یہ حذف کیے جا سکتے ہیں:
 
-| فائل | کتاب | چھپا صفحہ → PDF صفحہ |
+| مقام | بات | حوالہ |
 |---|---|---|
-| ur_raheeq_makhtum.in.urdu.pdf | الرحیق المختوم (اردو)، المکتبۃ السلفیہ لاہور، 1421ھ/2000ء — **بنیادی ماخذ** | برابر |
-| Seerat.un.Nabi.-.Vol.1.pdf | سیرۃ النبی ﷺ حصہ اول، شبلی و سلیمان ندوی، مکتبہ اسلامیہ، اکتوبر 2012ء | چھپا + 2 |
-| GHAZWAT.UN.NABI.S.A.W.pdf | غزوات النبی ﷺ، علامہ حلبی، ترجمہ مولانا محمد اسلم قاسمی، دار الاشاعت کراچی | ص53–58: چھپا + 1؛ ص737–784: چھپا + 49؛ ص785–846: چھپا − 79 |
-| The.Battlefields...Hamidullah.pdf | ڈاکٹر محمد حمیداللہ، انگریزی | ہر حوالے کا PDF صفحہ نیچے نقشے میں |
-| SeeratUnNabiIiEnglish_text.pdf | سیرۃ النبی (انگریزی) جلد 2، شبلی | چھپا + 11 |
-| saifullah-khalid-ibin-waleed.pdf | خالد بن ولید کی سوانح (انگریزی) | حوالے میں PDF صفحہ ہی دیا گیا ہے |
+| باب اول، فصل دوم | مہاجرین کی معاشی تنگی اور بائیکاٹ | الرحیق ص246 |
+| باب اول، فصل دوم | قریش کا عبداللہ بن ابی کو خط (ابو داؤد 3004)، حضرت سعد بن معاذ اور ابوجہل کا مکالمہ، قریش کی دھمکی، حضرت سعد بن ابی وقاص کا پہرہ، روایتِ ابی بن کعب | الرحیق ص265 تا 267 |
+| باب اول، فصل دوم | یہود کے ساتھ معاہدے کی دفعات | الرحیق ص263 تا 264 |
+| باب سوم، فصل دوم | موتہ کے لشکر کو "بچے، عورت، بوڑھے، راہب کو قتل نہ کرنا، درخت نہ کاٹنا" والی ہدایات؛ دیگر جنگی ضوابط؛ "معاہد کو قتل کرنے والا جنت کی خوشبو نہ پائے گا" | الرحیق ص527، 595 |
+| باب سوم، فصل سوم (عصرِ حاضر) | پرانے حوالے جوں کے توں | الرحیق ص275، 458، 527، 579، 594، 595 |
 
-**استعمال نہیں ہوئیں:** تاریخِ طبری (7 جلدیں)، ابنِ کثیر کی سیرت (3)، ابنِ ہشام (2)، سیرۃ النبی جلد 2 تا 7، تاریخِ اسلام (4 فائلیں)، فتوح الشام، Muslim Conduct of State، انگریزی Sealed Nectar (اس کی جگہ اردو الرحیق لی گئی)، اور خالد بن ولید کی دو چھوٹی اردو فائلیں۔ وجہ: یا تو مطلوبہ مواد اوپر والی کتابوں میں زیادہ صاف اور مرتب مل گیا، یا فائل اسکین شدہ تھی اور اس میں متعلقہ حصہ تلاش کرنا ممکن نہ ہوا (مثلاً `HAZRAT.KHALID.BIN.WALEED.BOOK.pdf` کا متن پڑھا نہیں جا سکا)۔ ان کتابوں سے کوئی حوالہ مقالے میں نہیں دیا گیا۔
-
----
-
-## 3۔ اہم نوٹس (ضرور پڑھیں)
-
-1. **فہرستِ عنوانات، آیات اور احادیث کے صفحہ نمبر Word خود لگائے گا۔** فائل کھولتے ہی "Update fields?" پر **Yes** دبائیں، یا **Ctrl+A** کے بعد **F9**۔
-2. **صفحات کی تعداد:** پیش نظارہ (Noto Nastaliq) میں تقریباً 159 صفحات بنے۔ زکوٰۃ والے مقالے کے تناسب سے (137 → 78) یہ Alvi Nastaleeq میں تقریباً **88 تا 92 صفحات** کا بنے گا۔ یہ اندازہ ہے، Word میں خود دیکھ لیں۔
-3. **سرورق:** سال 1449ھ / 2027ء لکھا ہے (آپ کی پچھلی تبدیلی کے مطابق)؛ ذاتی خانے خالی ہیں۔
-4. **غزوات النبی کا ایک حصہ PDF میں موجود نہیں:** اس کتاب کے چھپے صفحات تقریباً 705 تا 736 (جن میں "بابِ سرایا" کا آغاز، ص719، آتا ہے) PDF میں نہیں ملے، اس لیے وہاں سے کچھ نہیں لیا گیا۔ اس کتاب کے صفحات کی ترتیب بھی PDF میں آگے پیچھے ہے، اس لیے نیچے نقشے میں ہر حوالے کا PDF صفحہ الگ دیا گیا ہے۔ اس کا سنِ اشاعت واضح نہیں تھا، اس لیے "س ن" لکھا ہے۔
-5. **"Saifullah" والی انگریزی کتاب:** فائل میں مصنف کا نام اور ناشر درج نہیں، اس لیے مقالے میں یہی وضاحت لکھی ہے۔ اس سے صرف تین جگہ مدد لی گئی ہے (موتہ کا تجزیہ، حضرت ثابت بن ارقم کی پیشکش، لشکرِ اسامہ کی واپسی)۔ اگر ممتحن کو اعتراض کا خدشہ ہو تو یہ تین حواشی اور ان کے جملے حذف کیے جا سکتے ہیں، باقی مقالہ متاثر نہیں ہوگا۔
-6. **سریہ کا لغوی مفہوم:** کسی لغت کی کتاب ریلیز میں موجود نہیں تھی۔ اس لیے لغوی بحث قرآنِ مجید کی آیات (بنی اسرائیل 1: "اَسْرٰى ... لَيْلًا"؛ آلِ عمران 156: "غُزًّى") اور الرحیق کے بیان ("سرایا اسی سریہ کی جمع ہے") پر رکھی گئی ہے، اور رات کے سفر سے مناسبت کو صاف طور پر "راقم کی نظر میں" لکھا گیا ہے۔
-7. **دو آراء:** قافلوں والی مہمات کے بارے میں علامہ شبلی (لوٹ کا مقصد نہیں، صرف معاہدے) اور ڈاکٹر حمیداللہ (حالتِ جنگ میں جائز اقتصادی کارروائی) دونوں کی رائے ان کے حوالے سے لکھی ہے، اور راقم کا تجزیہ الگ ہے (باب اول، فصل سوم، نمبر 8)۔
-8. **اعداد کا فرق:** موتہ کے شہداء الرحیق میں 12 اور حمیداللہ کے جدول میں 13 ہیں؛ مقالے میں دونوں لکھ کر فرق کی نشاندہی کر دی گئی ہے۔ امیر کے بارے میں اختلاف (وادی القریٰ: ابوبکر یا زید؛ رجیع: مرثد یا عاصم) بھی ویسے ہی لکھا ہے۔
-9. **عربی متن:** جہاں کتاب میں صرف اردو ترجمہ تھا وہاں عربی متن مقالے میں نہیں ڈالا گیا، بلکہ اردو ترجمہ واوین میں لکھا گیا ہے۔ فہرستِ احادیث کے بعض عنوانات میں حدیث کے مشہور عربی الفاظ استعمال ہوئے ہیں۔
-10. **جان بوجھ کر چھوڑی گئی باتیں:** جو باتیں کتابوں میں صاف نہیں تھیں یا جن کا حوالہ نہیں ملا وہ شامل نہیں کیں، مثلاً سرایا کی کوئی ایک حتمی تعداد (صرف ابنِ ہشام کا 38 والا عدد حمیداللہ کے حوالے سے دیا ہے)، اور حضرت ابو عبیدہ یا حضرت عبدالرحمٰن بن عوف کے فضائل والے عام جملے۔
-11. **"راقم کی رائے":** جہاں بات کتاب سے نہیں بلکہ راقم کا اپنا تجزیہ ہے (جیسے جدولوں کی ترتیب، عصری تقاضے، جہاد میں ریاستی اختیار کا نتیجہ)، وہاں "راقم" لکھا ہے اور کوئی حوالہ نہیں دیا گیا۔
+**صحیح مسلم والی حضرت بریدہ کی حدیث** (امیر کو تقویٰ کی وصیت، "لا تمثلوا") نئی کتابوں میں نہیں ملی، اس لیے اس کی جگہ دومۃ الجندل کے موقع پر حضرت عبدالرحمٰن بن عوف کو دی گئی نبوی وصیت (مواہب ص341، مدارج ص248) لکھی گئی ہے۔ جدول سے "امیر کا تقویٰ" اور "مثلہ" والے ضابطے نکال دیے گئے ہیں۔
 
 ---
 
-## 4۔ ہر حاشیے کی جانچ کا نقشہ (حواشی 1 تا 247)
+## 3۔ کتابوں کے بیان سے پرانے متن کی تصحیحات (اہم)
 
-**طریقہ:** "فائل" والی PDF کھولیں → "PDF صفحہ" کالم والے نمبر پر جائیں۔
+نئی کتابوں سے ملانے پر یہ باتیں درست کی گئیں:
+
+1. **سریہ نخلہ:** قیدی **فدیہ لے کر** چھوڑے گئے؛ "مقتول کا خون بہا ادا کیا گیا" کسی کتاب میں نہیں، حذف۔ مدارج کے مطابق یہ رجب کی پہلی تاریخ تھی (مواہب: آخری تاریخ)؛ دونوں لکھ دی گئیں۔ مالِ غنیمت "رد کرنا" نہیں بلکہ "موقوف رکھنا" تھا۔
+2. **سریہ فدک:** تعداد **100** (پہلے 200)؛ بکریاں مواہب میں 2000، مدارج میں 1000؛ "جاسوس پکڑا گیا" والی بات حذف۔
+3. **سریہ خرار:** "خرار سے آگے نہ بڑھنا" اور "رات کا سفر" کتابوں میں نہیں، حذف۔ اسی لیے "حدود کی پابندی" والی مثال اب نخلہ اور بنو جذیمہ سے دی گئی ہے۔
+4. **غزوۂ ابواء:** تعداد 60 (پہلے 70)۔ غزوۂ ذی امر: **ربیع الاول 3ھ** (پہلے محرم)۔
+5. **عبداللہ بن انیس:** دشمن کا نام **سفیان بن خالد ہذلی**؛ عصا والے الفاظ "اس عصا کے ساتھ جنت میں ٹیک لگانا" (مدارج ص190–191)۔
+6. **بئر معونہ:** دو مقتول **بنو عامر** کے تھے (پہلے بنو کلاب)؛ تیس دن کی بددعا والی روایت صحیح مسلم کے حوالے سے (مواہب ص294)۔
+7. **دومۃ الجندل:** "پوری قوم مسلمان ہوئی" کی جگہ: سردار اور بہت سے افراد مسلمان ہوئے، بعض نے جزیہ قبول کیا۔
+8. **وادی القریٰ / ام قرفہ:** دونوں کتابوں میں امیر صرف **حضرت زید**؛ سبب: حضرت زید کے تجارتی قافلے کو لوٹنا۔ قتل کی سازش والی روایت مترجمِ مواہب کے حاشیے کے حوالے سے، ساتھ "منکر" کہے جانے کی وضاحت۔
+9. **حسمیٰ:** مال اس لیے واپس ہوا کہ وہ لوگ **اسلام لا چکے تھے** (خط پیش کیا)؛ "صلح کا معاہدہ" والی بات حذف۔
+10. **سریہ قدید/کدید:** دونوں کتابوں میں **صفر 8ھ**؛ اس لیے 8ھ کی فہرست میں منتقل۔ ابن رواحہ بسوئے اسیر بن رزام: **6ھ** (پہلے شوال 7ھ)، فصل دوم میں منتقل۔
+11. **میفعہ:** تعداد **230** (مواہب)؛ مدارج اسامہ والے واقعے کو سریۂ فدک (8ھ) میں رکھتی ہے؛ دونوں لکھ دیے۔
+12. **موتہ:** حضرت ابن عمر نے **پچاس** زخم گنے، "نوے سے زائد" صحیح بخاری کی دوسری روایت ہے؛ بارہ شہداء والا عدد دونوں کتابوں میں نہیں، اس لیے ہٹا دیا (حمیداللہ کا 13 جدول میں باقی)۔ حضرت خالد کی تدبیر کے بعد مدارج کے مطابق **دشمن بھاگا**۔
+13. **ذات السلاسل:** حضرت عمرو کی قرابت **ماں کی طرف سے** (پہلے "دادی")؛ کمک کی تعداد (200) اور 30 گھوڑے کتاب میں نہیں، حذف۔ مواہب کے ص404–405 PDF میں موجود نہیں، اس لیے یہ حصہ صرف مدارج سے ہے۔
+14. **حنین کے بعد:** درید بن صمہ مدارج کے مطابق اوطاس میں حضرت زبیر کے ہاتھوں مارا گیا۔ حضرت ابو عامر کو دسویں شخص نے نہیں بلکہ (مواہب) حارث کے بیٹوں علاء و اوفیٰ نے شہید کیا۔ ابو موسیٰ سے رشتہ: چچا (یا چچازاد)۔
+15. **9ھ:** بنو تمیم کی عورتیں 11 (مدارج: 15 یا 11)؛ سبب زکوٰۃ کی وصولی میں رکاوٹ (پہلے جزیہ)۔ سریہ علی (فلس): **ربیع الآخر**۔ ضحاک کلابی: مواہب میں "قرطاء"۔
+16. **محلم بن جثامہ:** "تین مرتبہ بلند آواز سے" کتاب میں نہیں؛ الفاظ اب "اللہ تعالیٰ تمہیں نہ بخشے" (مواہب ص407، بحوالہ ابن جریر)۔
+17. **بنو جذیمہ:** "کتے کے برتن" اور "باقی مال احتیاطاً دینا" والی تفصیل اور حضرت خالد و عبدالرحمٰن کی تکرار کتابوں میں نہیں، حذف۔ "ابن عمر کا انکار" کی جگہ مواہب کے مطابق: بنو سلیم نے قیدی قتل کیے، مہاجرین و انصار نے نہیں کیے۔ شیخ محقق: "اجتہادی خطا"۔
+18. **عباد بن بشر (ذات الرقاع)، فرات بن حیان، غابہ میں تکبیر کی تدبیر:** کتابوں میں نہیں ملے، حذف۔
+
+---
+
+## 4۔ کتابیں اور صفحات کا حساب
+
+| فائل (ریلیز Sahaba) | کتاب | چھپا صفحہ → PDF صفحہ |
+|---|---|---|
+| AlMawahibLaduniyaJ1.pdf | المواہب اللدنیہ ج1، ترجمہ مولانا محمد صدیق ہزاروی، فرید بک سٹال لاہور، س ن | ص215–294: چھپا − 5؛ ص296: PDF 290؛ ص339: 334؛ ص340: 333 (اسکین میں الٹ)؛ ص341–403: چھپا − 6؛ ص406 سے آگے: چھپا − 8۔ **ص295، 404، 405 اسکین میں موجود نہیں۔** |
+| Madarij-un-Nabuwatjild2.pdf | مدارج النبوۃ ج2، ترجمہ مفتی غلام معین الدین نعیمی، شبیر برادرز لاہور، جولائی 2004ء | چھپا − 2 |
+| Kanzul.Emaan.Urdu.pdf | کنز الایمان (ناشر/سن درج نہیں) | ص350 تک برابر؛ ص364 = PDF 379؛ ص493 = 536؛ ص617 = 660؛ ص618 = 661 |
+| ur_raheeq_makhtum.in.urdu.pdf | الرحیق المختوم (صرف سیکشن 2 والی جگہیں) | برابر |
+| Seerat.un.Nabi.-.Vol.1.pdf | سیرۃ النبی حصہ اول (صرف عصرِ حاضر / مستشرقین والا رد) | چھپا + 2 |
+| SeeratUnNabiIiEnglish_text.pdf | سیرۃ النبی انگریزی ج2 (ایک حاشیہ) | چھپا + 11 |
+| The.Battlefields...Hamidullah.pdf | ڈاکٹر حمیداللہ | نقشے میں ہر حوالے کا PDF صفحہ |
+
+مدارج النبوۃ جلد اول اور المواہب جلد 2 و 3 (شمائل، طب وغیرہ) اس موضوع سے متعلق نہیں تھیں، اس لیے ان سے کچھ نہیں لیا گیا۔
+
+---
+
+## 5۔ آپ سے متعلق سوالات / نوٹس (ضرور دیکھیں)
+
+1. **سرورق پر سن کا فرق:** آپ کی تصویر میں جدول کی آخری سطر میں "۱۴۴۸ھ بمطابق ۲۰۲۷ء" اور نیچے "۱۴۴۹ھ / ۲۰۲۷ء" ہے۔ میں نے دونوں جوں کے توں لکھے ہیں؛ جو درست ہو بتا دیں، ایک جگہ کر دوں گا۔ رجسٹریشن نمبر کا خانہ خالی ہے۔
+2. **نتیجہ (ممتحن) والا صفحہ:** سرورق کے بعد رکھا ہے؛ تنظیم کی فہرست میں اس کا ذکر نہیں۔ نہ چاہیں تو بتا دیں۔
+3. **باب کے سرورق کی پشت خالی:** ہدایات میں یہ بھی ہے اور یہ بھی کہ مقالہ ایک طرف چھاپا جائے؛ اس لیے خالی صفحات نہیں ڈالے۔ دو طرفہ چھپائی ہو تو بتا دیں۔
+4. **فونٹ:** فائل میں "Jameel Noori Nastaleeq" اور "Al Mushaf" لکھے ہیں؛ یہ دونوں آپ کے کمپیوٹر پر انسٹال ہونے چاہئیں۔ میرے پاس یہ فونٹ نہیں تھے، اس لیے فی صفحہ 24–26 سطروں کی تعداد Word میں خود دیکھ لیں؛ ضرورت ہو تو Line spacing تھوڑا بدل لیں۔
+5. **فہرستیں:** فائل کھولتے ہی "Update fields?" پر **Yes**، یا **Ctrl+A** پھر **F9**۔
+6. **کنز الایمان کی PDF** پر ناشر اور سن درج نہیں، اس لیے "پی ڈی ایف نسخہ، س ن" لکھا ہے۔ آپ کے پاس چھپا نسخہ ہو تو ناشر بتا دیں۔
+
+---
+
+## 6۔ ہر حاشیے کی جانچ کا نقشہ (حواشی 1 تا 301)
+
+**طریقہ:** "فائل" والی PDF کھولیں → "PDF صفحہ" کالم والے نمبر پر جائیں۔ "ایضاً" والے حاشیے اپنے سے پہلے والے ماخذ کے ہیں۔
 
 ### مقدمہ
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 1 | سورۃ الحج: 39۔ | قرآنِ مجید | — | — |
-| 2 | ترجمہ بحوالہ مولانا صفی الرحمٰن مبارکپوری، الرحیق المختوم (اردو)، المکتبۃ السلفیہ، شیش محل روڈ، لاہور، محرم الحرام 1421ھ/مئی 2000ء، ص268۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 268 |
+| 1 | سورۃ الحج: 39؛ ترجمہ: اعلیٰ حضرت امام احمد رضا خان، کنز الایمان فی ترجمۃ القرآن (اردو)، پی ڈی ایف نسخہ، س ن، ص617۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 660 |
+| 2 | امام احمد بن محمد قسطلانی، المواہب اللدنیہ بالمنح المحمدیہ (اردو)، مترجم: مولانا محمد صدیق ہزاروی، فرید بک سٹال، 38 اردو بازار، لاہور، س ن، ج1، ص218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
 | 3 | Dr. Muhammad Hamidullah, The Battlefields of the Prophet Muhammad, Kitab Bhavan, Daryaganj, New Delhi, 3rd revised edition 1983, reprint 1992, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
-
-### موضوع کی ضرورت و اہمیت
-
-| نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
-|---|---|---|---|---|
 | 4 | علامہ شبلی نعمانی و علامہ سید سلیمان ندوی، سیرۃ النبی ﷺ، حصہ اول، تخریج شدہ ایڈیشن، مکتبہ اسلامیہ، لاہور، اکتوبر 2012ء، ص218۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 220 |
-
-### اسلوبِ تحقیق
-
-| نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
-|---|---|---|---|---|
-| 5 | الرحیق المختوم، ص275 (حاشیہ)۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
-
-### سابقہ کام کا جائزہ
-
-| نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
-|---|---|---|---|---|
-| 6 | سیرۃ النبی، حصہ اول، ص218 تا 221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 220 |
-| 7 | علامہ علی بن برہان الدین حلبی، غزوات النبی ﷺ (اردو ترجمہ)، مترجم: مولانا محمد اسلم قاسمی، دار الاشاعت، اردو بازار، کراچی، س ن، ص53۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 54 |
+| 5 | المواہب اللدنیہ، ج1، ص217 تا 218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 6 | شیخ عبدالحق محدث دہلوی، مدارج النبوۃ (اردو)، مترجم: مفتی غلام معین الدین نعیمی، شبیر برادرز، اردو بازار، لاہور، جولائی 2004ء، ج2، ص111 تا 112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 109 |
+| 7 | سیرۃ النبی، حصہ اول، ص218 تا 221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 220 |
 | 8 | Hamidullah, The Battlefields, pp. 2-3. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 16 |
 
 ### فصل اول — سریہ اور غزوہ کا لغوی و اصطلاحی مفہوم
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 9 | الرحیق المختوم، ص269 (حاشیہ)۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 269 |
-| 10 | سورۃ بنی اسرائیل: 1۔ | قرآنِ مجید | — | — |
-| 11 | الرحیق المختوم، ص271۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 271 |
-| 12 | ایضاً، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 13 | ایضاً، ص575۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 575 |
-| 14 | سورۃ آلِ عمران: 156۔ | قرآنِ مجید | — | — |
-| 15 | الرحیق المختوم، ص269 (حاشیہ)۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 269 |
-| 16 | Allama Shibli Nu'mani, Sirat-un-Nabi, Vol. II, rendered into English by M. Tayyib Bakhsh Budayuni, Idarah-i Adabiyat-i Delli, Delhi, first published 1979, reprint 1983, p. 6 (footnote 1). | SeeratUnNabiIiEnglish_text.pdf | Release: Sahaba | 17 |
-| 17 | سیرۃ النبی، حصہ اول، ص268 (حاشیہ)۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 270 |
-| 18 | Shibli, Sirat-un-Nabi (Eng.), Vol. II, p. 76 (footnote). | SeeratUnNabiIiEnglish_text.pdf | Release: Sahaba | 87 |
-| 19 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
-| 20 | الرحیق المختوم، ص622 (حاشیہ)۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 622 |
-| 21 | ایضاً، ص269۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 269 |
-| 22 | ایضاً، ص458۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 458 |
-| 23 | سیرۃ النبی، حصہ اول، ص218۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 220 |
-| 24 | سورۃ التوبۃ: 122۔ | قرآنِ مجید | — | — |
-| 25 | غزوات النبی، ص58۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 59 |
+| 9 | المواہب اللدنیہ، ج1، ص217۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 10 | ایضاً، ص218، بحوالہ فتح الباری۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 11 | مدارج النبوۃ، ج2، ص112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 110 |
+| 12 | سورۃ بنی اسرائیل: 1؛ ترجمہ: کنز الایمان، ص493۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 536 |
+| 13 | المواہب اللدنیہ، ج1، ص341۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 14 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 15 | المواہب اللدنیہ، ج1، ص457۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 449 |
+| 16 | سورۃ آلِ عمران: 156؛ ترجمہ: کنز الایمان، ص127۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 127 |
+| 17 | مدارج النبوۃ، ج2، ص112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 110 |
+| 18 | المواہب اللدنیہ، ج1، ص217 تا 218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 19 | ایضاً، ص218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 20 | المواہب اللدنیہ، ج1، ص218، بحوالہ فتح الباری۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 21 | مدارج النبوۃ، ج2، ص112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 110 |
+| 22 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
+| 23 | سورۃ التوبۃ: 122؛ ترجمہ: کنز الایمان، ص364۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 379 |
 
 ### فصل دوم — عسکری مہمات کا پس منظر اور اجازتِ قتال
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 26 | غزوات النبی، ص54۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 55 |
-| 27 | سیرۃ النبی، حصہ اول، ص218۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 220 |
-| 28 | الرحیق المختوم، ص246۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 246 |
-| 29 | سنن ابی داؤد، کتاب الخراج، باب خبر النضیر، حدیث: 3004، بحوالہ سیرۃ النبی، حصہ اول، ص218۔ ترجمہ میں تسہیل کی گئی ہے۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 220 |
-| 30 | الرحیق المختوم، ص266۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 266 |
-| 31 | صحیح بخاری، حدیث: 3950، بحوالہ سیرۃ النبی، حصہ اول، ص219؛ الرحیق المختوم، ص266۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 221 |
-| 32 | الرحیق المختوم، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
-| 33 | صحیح بخاری؛ صحیح مسلم، بحوالہ الرحیق المختوم، ص267؛ سیرۃ النبی، حصہ اول، ص220۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
+| 24 | المواہب اللدنیہ، ج1، ص217، بحوالہ تفسیر البحر المحیط، ج6، ص373۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 25 | مدارج النبوۃ، ج2، ص112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 110 |
+| 26 | المواہب اللدنیہ، ج1، ص215 تا 216۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 210 |
+| 27 | مولانا صفی الرحمٰن مبارکپوری، الرحیق المختوم (اردو)، المکتبۃ السلفیہ، شیش محل روڈ، لاہور، محرم الحرام 1421ھ/مئی 2000ء، ص246۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 246 |
+| 28 | سنن ابی داؤد، کتاب الخراج، باب خبر النضیر، حدیث: 3004، بحوالہ الرحیق المختوم، ص265۔ ترجمہ میں تسہیل کی گئی ہے۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 265 |
+| 29 | الرحیق المختوم، ص266۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 266 |
+| 30 | صحیح بخاری، بحوالہ الرحیق المختوم، ص266۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 266 |
+| 31 | الرحیق المختوم، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
+| 32 | صحیح بخاری؛ صحیح مسلم، بحوالہ الرحیق المختوم، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
+| 33 | سورۃ المائدۃ: 67؛ ترجمہ: کنز الایمان، ص213۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 213 |
 | 34 | الرحیق المختوم، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
-| 35 | سیرۃ النبی، حصہ اول، ص220۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 222 |
-| 36 | سیرۃ النبی، حصہ اول، ص219۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 221 |
+| 35 | ایضاً، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
+| 36 | مدارج النبوۃ، ج2، ص389۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 387 |
 | 37 | الرحیق المختوم، ص263 تا 264۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 263 |
-| 38 | سیرۃ النبی، حصہ اول، ص220۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 222 |
-| 39 | ترجمہ بحوالہ الرحیق المختوم، ص268۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 268 |
-| 40 | الرحیق المختوم، ص268۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 268 |
-| 41 | سورۃ الحج: 41۔ | قرآنِ مجید | — | — |
-| 42 | سورۃ البقرۃ: 190۔ | قرآنِ مجید | — | — |
-| 43 | سیرۃ النبی، حصہ اول، ص220 تا 221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 222 |
-| 44 | غزوات النبی، ص54 تا 57۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 55 |
-| 45 | ایضاً، ص58۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 59 |
-| 46 | سیرۃ النبی، حصہ اول، ص221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 223 |
+| 38 | المواہب اللدنیہ، ج1، ص217، بحوالہ فتح الباری، ج8، ص318۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 39 | سورۃ الحج: 39؛ ترجمہ: کنز الایمان، ص617۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 660 |
+| 40 | مدارج النبوۃ، ج2، ص111۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 109 |
+| 41 | المواہب اللدنیہ، ج1، ص217۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 42 | مدارج النبوۃ، ج2، ص112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 110 |
+| 43 | سورۃ الحج: 41؛ ترجمہ: کنز الایمان، ص618۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 661 |
+| 44 | سورۃ البقرۃ: 190؛ ترجمہ: کنز الایمان، ص53۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 53 |
+| 45 | المواہب اللدنیہ، ج1، ص217۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
+| 46 | مدارج النبوۃ، ج2، ص111۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 109 |
+| 47 | المواہب اللدنیہ، ج1، ص217۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 212 |
 
 ### فصل سوم — سرایا کے بنیادی مقاصد
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 47 | الرحیق المختوم، ص268۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 268 |
-| 48 | الرحیق المختوم، ص269۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 269 |
-| 49 | سیرۃ النبی، حصہ اول، ص221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 223 |
-| 50 | Shibli, Sirat-un-Nabi (Eng.), Vol. II, p. 6. | SeeratUnNabiIiEnglish_text.pdf | Release: Sahaba | 17 |
-| 51 | Hamidullah, The Battlefields, p. 79. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 123 |
-| 52 | ایضاً، p. 79۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 123 |
-| 53 | ایضاً، p. 80۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 124 |
-| 54 | سیرۃ النبی، حصہ اول، ص268۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 270 |
-| 55 | سیرۃ النبی، حصہ اول، ص268۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 270 |
-| 56 | الرحیق المختوم، ص394۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 394 |
-| 57 | الرحیق المختوم، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 58 | ایضاً، ص526۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 526 |
-| 59 | ایضاً، ص576۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 576 |
-| 60 | ایضاً، ص558۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 558 |
-| 61 | ایضاً، ص557 تا 558۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 557 |
-| 62 | سیرۃ النبی، حصہ اول، ص221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 223 |
-| 63 | الرحیق المختوم، ص574 تا 575۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 574 |
-| 64 | الرحیق المختوم، ص575۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 575 |
-| 65 | سیرۃ النبی، حصہ اول، ص221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 223 |
-| 66 | Shibli, Sirat-un-Nabi (Eng.), Vol. II, p. 9 (footnote 1). | SeeratUnNabiIiEnglish_text.pdf | Release: Sahaba | 20 |
-| 67 | Hamidullah, The Battlefields, p. 28. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 50 |
-| 68 | ایضاً، p. 28۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 50 |
-| 69 | الرحیق المختوم، ص275۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
-| 70 | ایضاً، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 71 | Hamidullah, The Battlefields, p. 80. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 124 |
+| 48 | المواہب اللدنیہ، ج1، ص218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 49 | ایضاً، ص220۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 215 |
+| 50 | ایضاً، ص221۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 216 |
+| 51 | مدارج النبوۃ، ج2، ص113 تا 115۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 111 |
+| 52 | صحیح بخاری، بحوالہ الرحیق المختوم، ص266۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 266 |
+| 53 | Hamidullah, The Battlefields, p. 79. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 123 |
+| 54 | ایضاً، p. 79۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 123 |
+| 55 | ایضاً، p. 80۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 124 |
+| 56 | المواہب اللدنیہ، ج1، ص342، بحوالہ طبقاتِ ابن سعد، ج2، ص89۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 336 |
+| 57 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 58 | المواہب اللدنیہ، ج1، ص341۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 59 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 60 | المواہب اللدنیہ، ج1، ص400؛ مدارج النبوۃ، ج2، ص327۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 394 |
+| 61 | المواہب اللدنیہ، ج1، ص460۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 452 |
+| 62 | المواہب اللدنیہ، ج1، ص438۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 430 |
+| 63 | مدارج النبوۃ، ج2، ص365۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 363 |
+| 64 | المواہب اللدنیہ، ج1، ص437 تا 438؛ مدارج النبوۃ، ج2، ص364 تا 365۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 429 |
+| 65 | المواہب اللدنیہ، ج1، ص220، بحوالہ فتح الباری، ج8، ص217؛ مدارج النبوۃ، ج2، ص113۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 215 |
+| 66 | المواہب اللدنیہ، ج1، ص221؛ مدارج النبوۃ، ج2، ص115۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 216 |
+| 67 | المواہب اللدنیہ، ج1، ص221۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 216 |
+| 68 | مدارج النبوۃ، ج2، ص391۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 389 |
+| 69 | المواہب اللدنیہ، ج1، ص459، بحوالہ طبقاتِ ابن سعد، ج2، ص161۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 451 |
+| 70 | سیرۃ النبی، حصہ اول، ص221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 223 |
+| 71 | Allama Shibli Nu'mani, Sirat-un-Nabi, Vol. II, rendered into English by M. Tayyib Bakhsh Budayuni, Idarah-i Adabiyat-i Delli, Delhi, first published 1979, reprint 1983, p. 9 (footnote 1). | SeeratUnNabiIiEnglish_text.pdf | Release: Sahaba | 20 |
+| 72 | Hamidullah, The Battlefields, p. 28. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 50 |
+| 73 | ایضاً، p. 28۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 50 |
+| 74 | المواہب اللدنیہ، ج1، ص222؛ مدارج النبوۃ، ج2، ص116۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 75 | المواہب اللدنیہ، ج1، ص222؛ مدارج النبوۃ، ج2، ص117 تا 118۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 76 | Hamidullah, The Battlefields, p. 80. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 124 |
 
 ### فصل اول — سرایا کی تعداد اور غزوۂ بدر سے پہلے کے سرایا
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 72 | غزوات النبی، ص53۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 54 |
-| 73 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
-| 74 | الرحیق المختوم، ص275 (حاشیہ)۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
-| 75 | Shibli, Sirat-un-Nabi (Eng.), Vol. II, p. 6 (footnote 1). | SeeratUnNabiIiEnglish_text.pdf | Release: Sahaba | 17 |
-| 76 | الرحیق المختوم، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 77 | سیرۃ النبی، حصہ اول، ص221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 223 |
-| 78 | الرحیق المختوم، ص269 تا 270۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 269 |
-| 79 | ایضاً، ص270۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 270 |
-| 80 | الرحیق المختوم، ص270۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 270 |
-| 81 | الرحیق المختوم، ص270 تا 271۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 270 |
-| 82 | الرحیق المختوم، ص271۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 271 |
-| 83 | سیرۃ النبی، حصہ اول، ص222۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 224 |
-| 84 | الرحیق المختوم، ص271۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 271 |
-| 85 | ایضاً، ص272۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 272 |
-| 86 | ایضاً، ص272۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 272 |
-| 87 | الرحیق المختوم، ص273۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 88 | الرحیق المختوم، ص273۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 89 | سیرۃ النبی، حصہ اول، ص223۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 225 |
-| 90 | الرحیق المختوم، ص273 تا 274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 91 | الرحیق المختوم، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 92 | سیرۃ النبی، حصہ اول، ص223۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 225 |
-| 93 | سورۃ البقرۃ: 217۔ | قرآنِ مجید | — | — |
-| 94 | ترجمہ بحوالہ الرحیق المختوم، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 95 | الرحیق المختوم، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 96 | سیرۃ النبی، حصہ اول، ص223، بحوالہ تاریخ طبری۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 225 |
-| 97 | الرحیق المختوم، ص275۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
-| 98 | الرحیق المختوم، ص275۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
+| 77 | المواہب اللدنیہ، ج1، ص218، بحوالہ طبقاتِ ابن سعد، ج2، ص6۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 78 | مدارج النبوۃ، ج2، ص112۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 110 |
+| 79 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
+| 80 | المواہب اللدنیہ، ج1، ص342؛ مدارج النبوۃ، ج2، ص247۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 336 |
+| 81 | المواہب اللدنیہ، ج1، ص218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 82 | المواہب اللدنیہ، ج1، ص218 تا 220۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 83 | مدارج النبوۃ، ج2، ص113 تا 114۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 111 |
+| 84 | المواہب اللدنیہ، ج1، ص219۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 214 |
+| 85 | المواہب اللدنیہ، ج1، ص218، بحوالہ طبقاتِ ابن سعد، ج2، ص6۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 86 | مدارج النبوۃ، ج2، ص114۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 112 |
+| 87 | المواہب اللدنیہ، ج1، ص218۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 88 | مدارج النبوۃ، ج2، ص114۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 112 |
+| 89 | المواہب اللدنیہ، ج1، ص219۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 214 |
+| 90 | المواہب اللدنیہ، ج1، ص219۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 214 |
+| 91 | مدارج النبوۃ، ج2، ص113۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 111 |
+| 92 | المواہب اللدنیہ، ج1، ص220۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 215 |
+| 93 | مدارج النبوۃ، ج2، ص114۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 112 |
+| 94 | المواہب اللدنیہ، ج1، ص220، بحوالہ فتح الباری، ج8، ص217۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 215 |
+| 95 | مدارج النبوۃ، ج2، ص113۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 111 |
+| 96 | المواہب اللدنیہ، ج1، ص221، بحوالہ سیرتِ ابنِ ہشام، ج2، ص58۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 216 |
+| 97 | المواہب اللدنیہ، ج1، ص220۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 215 |
+| 98 | مدارج النبوۃ، ج2، ص115۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 113 |
+| 99 | المواہب اللدنیہ، ج1، ص222؛ مدارج النبوۃ، ج2، ص116۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 100 | مدارج النبوۃ، ج2، ص116۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 114 |
+| 101 | المواہب اللدنیہ، ج1، ص221، بحوالہ فتح الباری، ج8، ص219۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 216 |
+| 102 | مدارج النبوۃ، ج2، ص115۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 113 |
+| 103 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 104 | مدارج النبوۃ، ج2، ص116۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 114 |
+| 105 | مدارج النبوۃ، ج2، ص116 تا 117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 114 |
+| 106 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 107 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 108 | مدارج النبوۃ، ج2، ص117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 115 |
+| 109 | ایضاً، ص117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 115 |
+| 110 | المواہب اللدنیہ، ج1، ص222، بحوالہ عیون الاثر، ج1، ص303۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 111 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 112 | مدارج النبوۃ، ج2، ص117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 115 |
+| 113 | سورۃ البقرۃ: 217؛ ترجمہ: کنز الایمان، ص61 تا 62۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 61 |
+| 114 | مدارج النبوۃ، ج2، ص118۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 116 |
+| 115 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 116 | ایضاً، ص223، بحوالہ عیون الاثر، ج1، ص302۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 218 |
+| 117 | مدارج النبوۃ، ج2، ص118۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 116 |
 
 ### فصل دوم — غزوۂ بدر سے صلحِ حدیبیہ تک کے سرایا
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 99 | الرحیق المختوم، ص330۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 330 |
-| 100 | الرحیق المختوم، ص331۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 331 |
-| 101 | سورۃ النساء: 51۔ | قرآنِ مجید | — | — |
-| 102 | ترجمہ بحوالہ غزوات النبی، ص738۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 787 |
-| 103 | غزوات النبی، ص738۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 787 |
-| 104 | الرحیق المختوم، ص332۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 332 |
-| 105 | الرحیق المختوم، ص333۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 333 |
-| 106 | الرحیق المختوم، ص335۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 335 |
-| 107 | الرحیق المختوم، ص336۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 336 |
-| 108 | الرحیق المختوم، ص337۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 337 |
-| 109 | Hamidullah, The Battlefields, p. 80. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 124 |
-| 110 | الرحیق المختوم، ص337۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 337 |
-| 111 | الرحیق المختوم، ص394۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 394 |
-| 112 | سیرۃ النبی، حصہ اول، ص268۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 270 |
-| 113 | الرحیق المختوم، ص394 تا 395۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 394 |
-| 114 | سیرۃ النبی، حصہ اول، ص268۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 270 |
-| 115 | الرحیق المختوم، ص395۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 395 |
-| 116 | سیرۃ النبی، حصہ اول، ص268۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 270 |
-| 117 | الرحیق المختوم، ص395۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 395 |
-| 118 | ایضاً، ص396۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 396 |
-| 119 | الرحیق المختوم، ص397۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 397 |
-| 120 | ایضاً، ص397۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 397 |
-| 121 | الرحیق المختوم، ص398۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 398 |
-| 122 | ایضاً، ص398۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 398 |
-| 123 | ایضاً، ص399۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 399 |
-| 124 | سیرۃ النبی، حصہ اول، ص269۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 271 |
-| 125 | صحیح بخاری، بحوالہ الرحیق المختوم، ص400۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 400 |
-| 126 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
-| 127 | الرحیق المختوم، ص399 تا 400۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 399 |
-| 128 | الرحیق المختوم، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 129 | الرحیق المختوم، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 130 | الرحیق المختوم، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 131 | الرحیق المختوم، ص457۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 457 |
-| 132 | الرحیق المختوم، ص487۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 487 |
-| 133 | الرحیق المختوم، ص458۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 458 |
-| 134 | ایضاً، ص458۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 458 |
+| 118 | المواہب اللدنیہ، ج1، ص262 تا 263، بحوالہ طبقاتِ ابن سعد، ج2، ص34۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 257 |
+| 119 | مدارج النبوۃ، ج2، ص146 تا 147۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 144 |
+| 120 | مدارج النبوۃ، ج2، ص148۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 146 |
+| 121 | المواہب اللدنیہ، ج1، ص261، بحوالہ صحیح بخاری، ج2، ص576۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 256 |
+| 122 | المواہب اللدنیہ، ج1، ص262؛ مدارج النبوۃ، ج2، ص148۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 257 |
+| 123 | سورۃ النساء: 51؛ ترجمہ: کنز الایمان، ص156۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 156 |
+| 124 | مدارج النبوۃ، ج2، ص148۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 146 |
+| 125 | المواہب اللدنیہ، ج1، ص261 تا 262۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 256 |
+| 126 | مدارج النبوۃ، ج2، ص148۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 146 |
+| 127 | المواہب اللدنیہ، ج1، ص262، بحوالہ طبقاتِ ابن سعد، ج2، ص33؛ مدارج النبوۃ، ج2، ص150۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 257 |
+| 128 | المواہب اللدنیہ، ج1، ص264، بحوالہ سیرتِ ابنِ ہشام، ج2، ص131۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 259 |
+| 129 | مدارج النبوۃ، ج2، ص150 تا 151۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 148 |
+| 130 | المواہب اللدنیہ، ج1، ص264، بحوالہ طبقاتِ ابن سعد، ج2، ص36۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 259 |
+| 131 | مدارج النبوۃ، ج2، ص151۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 149 |
+| 132 | Hamidullah, The Battlefields, p. 80. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 124 |
+| 133 | المواہب اللدنیہ، ج1، ص284 تا 294؛ مدارج النبوۃ، ج2، ص185 تا 194۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 279 |
+| 134 | المواہب اللدنیہ، ج1، ص284، بحوالہ طبقاتِ ابن سعد، ج2، ص50۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 279 |
+| 135 | مدارج النبوۃ، ج2، ص190۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 188 |
+| 136 | المواہب اللدنیہ، ج1، ص284 تا 285، بحوالہ طبقاتِ ابن سعد، ج2، ص50۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 279 |
+| 137 | مدارج النبوۃ، ج2، ص190 تا 191۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 188 |
+| 138 | المواہب اللدنیہ، ج1، ص285 تا 286۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 280 |
+| 139 | مدارج النبوۃ، ج2، ص186۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 184 |
+| 140 | المواہب اللدنیہ، ج1، ص286 تا 287؛ مدارج النبوۃ، ج2، ص187۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 281 |
+| 141 | المواہب اللدنیہ، ج1، ص288، بحوالہ صحیح بخاری، ج2، ص585۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 283 |
+| 142 | ایضاً، ص289۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 284 |
+| 143 | المواہب اللدنیہ، ج1، ص289، بحوالہ فتح الباری، ج7، ص295۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 284 |
+| 144 | المواہب اللدنیہ، ج1، ص292 تا 293، بحوالہ صحیح بخاری، ج2، ص586۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 287 |
+| 145 | مدارج النبوۃ، ج2، ص191 تا 192۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 189 |
+| 146 | مدارج النبوۃ، ج2، ص192۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 190 |
+| 147 | المواہب اللدنیہ، ج1، ص293۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 288 |
+| 148 | المواہب اللدنیہ، ج1، ص293؛ مدارج النبوۃ، ج2، ص192 تا 193۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 288 |
+| 149 | المواہب اللدنیہ، ج1، ص296۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 290 |
+| 150 | المواہب اللدنیہ، ج1، ص294، بحوالہ صحیح مسلم، ج1، ص237۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 289 |
+| 151 | مدارج النبوۃ، ج2، ص194۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 192 |
+| 152 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
+| 153 | المواہب اللدنیہ، ج1، ص296۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 290 |
+| 154 | المواہب اللدنیہ، ج1، ص341، بحوالہ طبقاتِ ابن سعد، ج2، ص89۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 155 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 156 | المواہب اللدنیہ، ج1، ص342، بحوالہ طبقاتِ ابن سعد، ج2، ص89۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 336 |
+| 157 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 158 | المواہب اللدنیہ، ج1، ص342، بحوالہ طبقاتِ ابن سعد، ج2، ص90۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 336 |
+| 159 | مدارج النبوۃ، ج2، ص247۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 245 |
+| 160 | المواہب اللدنیہ، ج1، ص342 (حاشیہ)، بحوالہ زرقانی، ج2، ص163۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 336 |
+| 161 | المواہب اللدنیہ، ج1، ص345 تا 346، بحوالہ صحیح بخاری، ج2، ص602۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 339 |
+| 162 | مدارج النبوۃ، ج2، ص248 تا 249۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 163 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 164 | مدارج النبوۃ، ج2، ص247 تا 248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 245 |
+| 165 | المواہب اللدنیہ، ج1، ص341، بحوالہ طبقاتِ ابن سعد، ج2، ص88۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 166 | المواہب اللدنیہ، ج1، ص345، بحوالہ طبقاتِ ابن سعد، ج2، ص92۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 339 |
+| 167 | مدارج النبوۃ، ج2، ص250۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 248 |
+| 168 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
 
 ### فصل سوم — صلحِ حدیبیہ کے بعد سے عہدِ نبوی کے اختتام تک کے سرایا
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 135 | الرحیق المختوم، ص519۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 519 |
-| 136 | الرحیق المختوم، ص519۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 519 |
-| 137 | ایضاً، ص520۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 520 |
-| 138 | ایضاً، ص520۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 520 |
-| 139 | ایضاً، ص520۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 520 |
-| 140 | ایضاً، ص520۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 520 |
-| 141 | الرحیق المختوم، ص521۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 521 |
-| 142 | غزوات النبی، ص821 تا 822۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 742 |
-| 143 | الرحیق المختوم، ص526۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 526 |
-| 144 | الرحیق المختوم، ص526۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 526 |
-| 145 | سیرۃ النبی، حصہ اول، ص339۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 341 |
-| 146 | صحیح بخاری، باب غزوۃ موتہ، بحوالہ الرحیق المختوم، ص526۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 526 |
-| 147 | الرحیق المختوم، ص526 تا 527۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 526 |
-| 148 | الرحیق المختوم، ص528۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 528 |
-| 149 | الرحیق المختوم، ص529 تا 530۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 529 |
-| 150 | صحیح بخاری، بحوالہ الرحیق المختوم، ص530۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 530 |
-| 151 | صحیح بخاری، بحوالہ الرحیق المختوم، ص531۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 531 |
-| 152 | الرحیق المختوم، ص531۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 531 |
-| 153 | الرحیق المختوم، ص532۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 532 |
-| 154 | Saifullah: Khalid bin al-Waleed (English, PDF; author's name not given in the file), p. 57 (PDF). | saifullah-khalid-ibin-waleed.pdf | Release: Sahaba | 57 |
-| 155 | الرحیق المختوم، ص532 تا 533۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 532 |
-| 156 | ایضاً، ص534۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 534 |
-| 157 | الرحیق المختوم، ص534۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 534 |
-| 158 | غزوات النبی، ص820۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 741 |
-| 159 | غزوات النبی، ص823۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 744 |
-| 160 | الرحیق المختوم، ص557 تا 558۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 557 |
-| 161 | ایضاً، ص558۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 558 |
-| 162 | الرحیق المختوم، ص566۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 566 |
-| 163 | غزوات النبی، ص832۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 753 |
-| 164 | غزوات النبی، ص832۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 753 |
-| 165 | غزوات النبی، ص833۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 754 |
-| 166 | غزوات النبی، ص833۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 754 |
-| 167 | الرحیق المختوم، ص575۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 575 |
-| 168 | الرحیق المختوم، ص575 تا 576۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 575 |
-| 169 | ایضاً، ص576۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 576 |
-| 170 | ایضاً، ص576۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 576 |
-| 171 | ایضاً، ص576۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 576 |
-| 172 | ایضاً، ص576 تا 577۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 576 |
-| 173 | الرحیق المختوم، ص622۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 622 |
-| 174 | صحیح بخاری، باب بعث النبی ﷺ اسامۃ، بحوالہ الرحیق المختوم، ص622۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 622 |
-| 175 | الرحیق المختوم، ص622۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 622 |
-| 176 | Saifullah: Khalid bin al-Waleed, p. 89 (PDF). | saifullah-khalid-ibin-waleed.pdf | Release: Sahaba | 89 |
-| 177 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
-| 178 | ایضاً، pp. 2-3۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 16 |
-| 179 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
-| 180 | الرحیق المختوم، ص532۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 532 |
+| 169 | المواہب اللدنیہ، ج1، ص389، بحوالہ طبقاتِ ابن سعد، ج2، ص117۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 383 |
+| 170 | المواہب اللدنیہ، ج1، ص389، بحوالہ طبقاتِ ابن سعد، ج2، ص118۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 383 |
+| 171 | المواہب اللدنیہ، ج1، ص397۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 391 |
+| 172 | المواہب اللدنیہ، ج1، ص390۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 384 |
+| 173 | مدارج النبوۃ، ج2، ص325۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 323 |
+| 174 | المواہب اللدنیہ، ج1، ص407۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 175 | المواہب اللدنیہ، ج1، ص399، بحوالہ سیرتِ ابنِ ہشام، ج2، ص256۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 393 |
+| 176 | مدارج النبوۃ، ج2، ص325۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 323 |
+| 177 | المواہب اللدنیہ، ج1، ص399، بحوالہ مغازی واقدی، ج2، ص756۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 393 |
+| 178 | مدارج النبوۃ، ج2، ص326۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 324 |
+| 179 | المواہب اللدنیہ، ج1، ص399، بحوالہ طبقاتِ ابن سعد، ج2، ص128؛ فتح الباری، ج7، ص393۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 393 |
+| 180 | مدارج النبوۃ، ج2، ص326۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 324 |
+| 181 | المواہب اللدنیہ، ج1، ص400؛ مدارج النبوۃ، ج2، ص327۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 394 |
+| 182 | المواہب اللدنیہ، ج1، ص400۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 394 |
+| 183 | مدارج النبوۃ، ج2، ص328۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 326 |
+| 184 | المواہب اللدنیہ، ج1، ص400 تا 401، بحوالہ صحیح بخاری، ج2، ص611۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 394 |
+| 185 | المواہب اللدنیہ، ج1، ص402۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 396 |
+| 186 | مدارج النبوۃ، ج2، ص331۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 329 |
+| 187 | مدارج النبوۃ، ج2، ص329 تا 330؛ المواہب اللدنیہ، ج1، ص401۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 327 |
+| 188 | مدارج النبوۃ، ج2، ص330۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 328 |
+| 189 | مدارج النبوۃ، ج2، ص330۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 328 |
+| 190 | المواہب اللدنیہ، ج1، ص401، بحوالہ طبقاتِ ابن سعد، ج2، ص129۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 395 |
+| 191 | مدارج النبوۃ، ج2، ص332۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 330 |
+| 192 | مدارج النبوۃ، ج2، ص332 تا 333۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 330 |
+| 193 | مدارج النبوۃ، ج2، ص332، 334۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 330 |
+| 194 | المواہب اللدنیہ، ج1، ص397۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 391 |
+| 195 | مدارج النبوۃ، ج2، ص325۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 323 |
+| 196 | المواہب اللدنیہ، ج1، ص406، بحوالہ طبقاتِ ابن سعد، ج2، ص132۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 398 |
+| 197 | مدارج النبوۃ، ج2، ص336۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 334 |
+| 198 | المواہب اللدنیہ، ج1، ص406 تا 407۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 398 |
+| 199 | المواہب اللدنیہ، ج1، ص437 تا 438، بحوالہ طبقاتِ ابن سعد، ج2، ص145 تا 146؛ مدارج النبوۃ، ج2، ص364 تا 365۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 429 |
+| 200 | المواہب اللدنیہ، ج1، ص438، بحوالہ طبقاتِ ابن سعد، ج2، ص147۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 430 |
+| 201 | مدارج النبوۃ، ج2، ص365۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 363 |
+| 202 | المواہب اللدنیہ، ج1، ص448۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 440 |
+| 203 | مدارج النبوۃ، ج2، ص373 تا 374۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 371 |
+| 204 | المواہب اللدنیہ، ج1، ص448، بحوالہ فتح الباری، ج8، ص34۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 440 |
+| 205 | مدارج النبوۃ، ج2، ص374۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 372 |
+| 206 | المواہب اللدنیہ، ج1، ص448۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 440 |
+| 207 | مدارج النبوۃ، ج2، ص374۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 372 |
+| 208 | المواہب اللدنیہ، ج1، ص449، بحوالہ صحیح بخاری، ج2، ص619؛ مدارج النبوۃ، ج2، ص374۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 441 |
+| 209 | المواہب اللدنیہ، ج1، ص449، بحوالہ طبقاتِ ابن سعد، ج2، ص157۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 441 |
+| 210 | مدارج النبوۃ، ج2، ص376۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 374 |
+| 211 | مدارج النبوۃ، ج2، ص391۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 389 |
+| 212 | المواہب اللدنیہ، ج1، ص457 تا 458، بحوالہ طبقاتِ ابن سعد، ج2، ص160 تا 161۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 449 |
+| 213 | مدارج النبوۃ، ج2، ص391 تا 392۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 389 |
+| 214 | المواہب اللدنیہ، ج1، ص460، بحوالہ طبقاتِ ابن سعد، ج2، ص161؛ مدارج النبوۃ، ج2، ص396۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 452 |
+| 215 | المواہب اللدنیہ، ج1، ص460۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 452 |
+| 216 | مدارج النبوۃ، ج2، ص396۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 394 |
+| 217 | المواہب اللدنیہ، ج1، ص460، بحوالہ طبقاتِ ابن سعد، ج2، ص163۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 452 |
+| 218 | مدارج النبوۃ، ج2، ص396۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 394 |
+| 219 | المواہب اللدنیہ، ج1، ص462، بحوالہ طبقاتِ ابن سعد، ج2، ص164؛ مدارج النبوۃ، ج2، ص397۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 454 |
+| 220 | مدارج النبوۃ، ج2، ص322۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 320 |
+| 221 | المواہب اللدنیہ، ج1، ص487۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 479 |
+| 222 | المواہب اللدنیہ، ج1، ص488، بحوالہ طبقاتِ ابن سعد، ج2، ص191؛ مدارج النبوۃ، ج2، ص476۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 480 |
+| 223 | المواہب اللدنیہ، ج1، ص489؛ مدارج النبوۃ، ج2، ص476۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 481 |
+| 224 | مدارج النبوۃ، ج2، ص477۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 475 |
+| 225 | المواہب اللدنیہ، ج1، ص490۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 482 |
+| 226 | مدارج النبوۃ، ج2، ص477۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 475 |
+| 227 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
+| 228 | ایضاً، pp. 2-3۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 16 |
+| 229 | Hamidullah, The Battlefields, p. 3 (footnote). | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 17 |
 
 ### فصل اول — سرایا میں صحابۂ کرام کی قیادت و حکمتِ عملی
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 181 | الرحیق المختوم، ص593۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 593 |
-| 182 | الرحیق المختوم، ص622۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 622 |
-| 183 | ایضاً، ص533۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 533 |
-| 184 | ایضاً، ص332۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 332 |
-| 185 | ایضاً، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 186 | الرحیق المختوم، ص526۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 526 |
-| 187 | ایضاً، ص530۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 530 |
-| 188 | الرحیق المختوم، ص528۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 528 |
-| 189 | ایضاً، ص273۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 190 | ایضاً، ص273۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 191 | الرحیق المختوم، ص533۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 533 |
-| 192 | سیرۃ النبی، حصہ اول، ص309۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 311 |
-| 193 | الرحیق المختوم، ص530۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 530 |
-| 194 | Saifullah: Khalid bin al-Waleed, p. 56 (PDF). | saifullah-khalid-ibin-waleed.pdf | Release: Sahaba | 56 |
-| 195 | الرحیق المختوم، ص273۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 196 | غزوات النبی، ص823۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 744 |
-| 197 | الرحیق المختوم، ص269 تا 271۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 269 |
-| 198 | ایضاً، ص273۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 273 |
-| 199 | غزوات النبی، ص821۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 742 |
-| 200 | الرحیق المختوم، ص456۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 456 |
-| 201 | ایضاً، ص330۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 330 |
-| 202 | ایضاً، ص337۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 337 |
-| 203 | Hamidullah, The Battlefields, p. 73. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 115 |
-| 204 | ایضاً، p. 74۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 116 |
-| 205 | الرحیق المختوم، ص271، 456، 520، 575۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 271 |
-| 206 | ایضاً، ص395۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 395 |
-| 207 | غزوات النبی، ص821 تا 822۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 742 |
-| 208 | الرحیق المختوم، ص531۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 531 |
-| 209 | Saifullah: Khalid bin al-Waleed, p. 56 (PDF). | saifullah-khalid-ibin-waleed.pdf | Release: Sahaba | 56 |
-| 210 | الرحیق المختوم، ص270 تا 271۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 270 |
-| 211 | ایضاً، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 212 | الرحیق المختوم، ص518۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 518 |
-| 213 | ایضاً، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
-| 214 | الرحیق المختوم، ص593۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 593 |
+| 230 | المواہب اللدنیہ، ج1، ص488، بحوالہ طبقاتِ ابن سعد، ج2، ص191۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 480 |
+| 231 | مدارج النبوۃ، ج2، ص333۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 331 |
+| 232 | المواہب اللدنیہ، ج1، ص262؛ مدارج النبوۃ، ج2، ص148۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 257 |
+| 233 | المواہب اللدنیہ، ج1، ص341؛ مدارج النبوۃ، ج2، ص248۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 234 | المواہب اللدنیہ، ج1، ص399؛ مدارج النبوۃ، ج2، ص326۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 393 |
+| 235 | مدارج النبوۃ، ج2، ص329؛ المواہب اللدنیہ، ج1، ص401۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 327 |
+| 236 | المواہب اللدنیہ، ج1، ص400؛ مدارج النبوۃ، ج2، ص328۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 394 |
+| 237 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 238 | مدارج النبوۃ، ج2، ص117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 115 |
+| 239 | مدارج النبوۃ، ج2، ص333 تا 334۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 331 |
+| 240 | المواہب اللدنیہ، ج1، ص397۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 391 |
+| 241 | مدارج النبوۃ، ج2، ص329۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 327 |
+| 242 | مدارج النبوۃ، ج2، ص116۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 114 |
+| 243 | المواہب اللدنیہ، ج1، ص407۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 244 | المواہب اللدنیہ، ج1، ص218، 220؛ مدارج النبوۃ، ج2، ص114۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 213 |
+| 245 | مدارج النبوۃ، ج2، ص117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 115 |
+| 246 | المواہب اللدنیہ، ج1، ص407۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 247 | المواہب اللدنیہ، ج1، ص342؛ مدارج النبوۃ، ج2، ص248۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 336 |
+| 248 | المواہب اللدنیہ، ج1، ص262 تا 263۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 257 |
+| 249 | المواہب اللدنیہ، ج1، ص264؛ مدارج النبوۃ، ج2، ص150 تا 151۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 259 |
+| 250 | Hamidullah, The Battlefields, p. 73. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 115 |
+| 251 | ایضاً، p. 74۔ | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 116 |
+| 252 | المواہب اللدنیہ، ج1، ص341، 389، 457؛ مدارج النبوۃ، ج2، ص248۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 253 | مدارج النبوۃ، ج2، ص190۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 188 |
+| 254 | مدارج النبوۃ، ج2، ص330۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 328 |
+| 255 | المواہب اللدنیہ، ج1، ص407۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 256 | مدارج النبوۃ، ج2، ص330۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 328 |
+| 257 | مدارج النبوۃ، ج2، ص117۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 115 |
+| 258 | المواہب اللدنیہ، ج1، ص222۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 259 | المواہب اللدنیہ، ج1، ص438۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 430 |
+| 260 | المواہب اللدنیہ، ج1، ص284 تا 285۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 279 |
+| 261 | مدارج النبوۃ، ج2، ص329۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 327 |
+| 262 | المواہب اللدنیہ، ج1، ص288۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 283 |
+| 263 | صحیح بخاری؛ صحیح مسلم، بحوالہ الرحیق المختوم، ص267۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 267 |
+| 264 | مدارج النبوۃ، ج2، ص366۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 364 |
 
 ### فصل دوم — نبوی ہدایات، جنگی اخلاقیات اور احتساب
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 215 | الرحیق المختوم، ص594 تا 595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 594 |
-| 216 | سورۃ النساء: 75۔ | قرآنِ مجید | — | — |
-| 217 | صحیح مسلم، ج2، ص82 تا 83، بحوالہ الرحیق المختوم، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
-| 218 | الرحیق المختوم، ص527۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 527 |
-| 219 | الرحیق المختوم، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
-| 220 | ایضاً، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
-| 221 | ایضاً، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
-| 222 | الرحیق المختوم، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 223 | الرحیق المختوم، ص520۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 520 |
-| 224 | غزوات النبی، ص823 تا 824۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 744 |
-| 225 | سورۃ النساء: 94۔ | قرآنِ مجید | — | — |
-| 226 | ترجمہ بحوالہ غزوات النبی، ص824۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 745 |
-| 227 | غزوات النبی، ص825۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 746 |
-| 228 | صحیح بخاری، بحوالہ الرحیق المختوم، ص558۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 558 |
-| 229 | غزوات النبی، ص830۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 751 |
-| 230 | غزوات النبی، ص831۔ | GHAZWAT.UN.NABI.S.A.W.pdf | Release: Sahaba | 752 |
-| 231 | الرحیق المختوم، ص558۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 558 |
-| 232 | الرحیق المختوم، ص487۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 487 |
-| 233 | الرحیق المختوم، ص399۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 399 |
-| 234 | الرحیق المختوم، ص274۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 274 |
-| 235 | ایضاً، ص576۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 576 |
-| 236 | ایضاً، ص577۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 577 |
-| 237 | ایضاً، ص337۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 337 |
+| 265 | سورۃ النساء: 75؛ ترجمہ: کنز الایمان، ص161 تا 162۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 161 |
+| 266 | المواہب اللدنیہ، ج1، ص341۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 267 | مدارج النبوۃ، ج2، ص248۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 246 |
+| 268 | المواہب اللدنیہ، ج1، ص400؛ مدارج النبوۃ، ج2، ص327۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 394 |
+| 269 | الرحیق المختوم، ص527۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 527 |
+| 270 | الرحیق المختوم، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
+| 271 | ایضاً، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
+| 272 | مدارج النبوۃ، ج2، ص326۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 324 |
+| 273 | المواہب اللدنیہ، ج1، ص222 تا 223؛ مدارج النبوۃ، ج2، ص117 تا 118۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 217 |
+| 274 | المواہب اللدنیہ، ج1، ص390، بحوالہ صحیح بخاری، ج2، ص612۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 384 |
+| 275 | مدارج النبوۃ، ج2، ص325۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 323 |
+| 276 | المواہب اللدنیہ، ج1، ص407، بحوالہ مسند احمد، ج6، ص11۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 277 | مدارج النبوۃ، ج2، ص336۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 334 |
+| 278 | المواہب اللدنیہ، ج1، ص407۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 279 | سورۃ النساء: 94؛ ترجمہ: کنز الایمان، ص168۔ | Kanzul.Emaan.Urdu.pdf (ترجمہ) | Release: Sahaba | 168 |
+| 280 | المواہب اللدنیہ، ج1، ص407، بحوالہ تفسیر ابن جریر، ج5، ص130۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 399 |
+| 281 | المواہب اللدنیہ، ج1، ص438 تا 439، بحوالہ صحیح بخاری، ج2، ص622۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 430 |
+| 282 | المواہب اللدنیہ، ج1، ص439؛ مدارج النبوۃ، ج2، ص366۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 431 |
+| 283 | مدارج النبوۃ، ج2، ص366؛ المواہب اللدنیہ، ج1، ص439۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 364 |
+| 284 | المواہب اللدنیہ، ج1، ص438 تا 439۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 430 |
+| 285 | مدارج النبوۃ، ج2، ص366 تا 367۔ | Madarij-un-Nabuwatjild2.pdf | Release: Sahaba | 364 |
+| 286 | المواہب اللدنیہ، ج1، ص341، بحوالہ طبقاتِ ابن سعد، ج2، ص88؛ مدارج النبوۃ، ج2، ص247۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 335 |
+| 287 | المواہب اللدنیہ، ج1، ص296۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 290 |
+| 288 | المواہب اللدنیہ، ج1، ص292۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 287 |
+| 289 | المواہب اللدنیہ، ج1، ص223۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 218 |
+| 290 | المواہب اللدنیہ، ج1، ص458؛ مدارج النبوۃ، ج2، ص392۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 450 |
+| 291 | المواہب اللدنیہ، ج1، ص462؛ مدارج النبوۃ، ج2، ص397۔ | AlMawahibLaduniyaJ1.pdf | Release: Sahaba | 454 |
 
 ### فصل سوم — مطالعۂ سرایا کے عصری تقاضے اور اہمیت
 
 | نمبر | حاشیہ (جیسا مقالے میں ہے) | فائل | کہاں | PDF صفحہ |
 |---|---|---|---|---|
-| 238 | الرحیق المختوم، ص579۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 579 |
-| 239 | الرحیق المختوم، ص275۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
-| 240 | ایضاً، ص458۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 458 |
-| 241 | Hamidullah, The Battlefields, pp. 2-3. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 16 |
-| 242 | Hamidullah, The Battlefields, p. 28. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 50 |
-| 243 | سیرۃ النبی، حصہ اول، ص220 تا 221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 222 |
-| 244 | الرحیق المختوم، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
-| 245 | الرحیق المختوم، ص527۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 527 |
-| 246 | Hamidullah, The Battlefields, p. 79. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 123 |
-| 247 | الرحیق المختوم، ص594۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 594 |
+| 292 | الرحیق المختوم، ص579۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 579 |
+| 293 | الرحیق المختوم، ص275۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 275 |
+| 294 | ایضاً، ص458۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 458 |
+| 295 | Hamidullah, The Battlefields, pp. 2-3. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 16 |
+| 296 | Hamidullah, The Battlefields, p. 28. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 50 |
+| 297 | سیرۃ النبی، حصہ اول، ص220 تا 221۔ | Seerat.un.Nabi.-.Vol.1.pdf | Release: Sahaba | 222 |
+| 298 | الرحیق المختوم، ص595۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 595 |
+| 299 | الرحیق المختوم، ص527۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 527 |
+| 300 | Hamidullah, The Battlefields, p. 79. | The.Battlefields.of.the.Prophet.Muhammad.-.Muhammad.Hamidullah.pdf | Release: Sahaba | 123 |
+| 301 | الرحیق المختوم، ص594۔ | ur_raheeq_makhtum.in.urdu.pdf | Release: Sahaba | 594 |
