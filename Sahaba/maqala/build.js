@@ -5,13 +5,16 @@ const {
   Document, Packer, Paragraph, TextRun, AlignmentType, PageBreak, Header,
   PageNumber, BorderStyle, Table, TableRow, TableCell, WidthType, ShadingType,
   FootnoteReferenceRun, HeadingLevel, TableOfContents, VerticalAlign,
-  LineRuleType, Bookmark, PageReference,
+  LineRuleType, Bookmark, PageReference, ImageRun,
 } = require('docx');
 
-const UR = 'Alvi Nastaleeq';
-const AR = 'Traditional Arabic';
-const BODY = 28;      // 14pt
-const FN = 22;        // 11pt
+// Tanzeem-ul-Madaris requirements: body 15pt, footnotes 13pt, headings 22/20/18/16, title 24
+const UR = 'Jameel Noori Nastaleeq';
+const AR = 'Al Mushaf';
+const BODY = 30;      // 15pt
+const FN = 26;        // 13pt
+const QUOTE = 28;     // 14pt (اقتباس، متن سے قدرے چھوٹا)
+const H_BAAB = 44, H_FASL = 40, H_MABHAS = 36, H_ZAILI = 32, H_TITLE = 48;
 const GRAY = 'EDEDED';
 
 const footnotes = {};
@@ -31,7 +34,7 @@ function runs(text, o = {}) {
     if (!t) return;
     const isEn = extra.en;
     const f = extra.ar ? AR : (isEn ? 'Times New Roman' : (o.font || UR));
-    const sz = extra.ar ? Math.round(size * 1.15) : (isEn ? Math.round(size * 0.8) : size);
+    const sz = extra.ar ? size : (isEn ? Math.round(size * 0.8) : size);
     out.push(new TextRun({
       text: t, font: font(f), size: sz, sizeComplexScript: sz,
       bold: o.bold || extra.bold, boldComplexScript: o.bold || extra.bold,
@@ -68,7 +71,7 @@ function runs(text, o = {}) {
 function fnPara(text) {
   return new Paragraph({
     bidirectional: true, alignment: AlignmentType.BOTH,
-    spacing: { after: 40, line: 240, lineRule: LineRuleType.AUTO },
+    spacing: { after: 0, line: 240, lineRule: LineRuleType.AUTO },
     children: runs(text, { size: FN }),
   });
 }
@@ -77,7 +80,7 @@ function para(text, o = {}) {
   return new Paragraph({
     bidirectional: true,
     alignment: o.align || AlignmentType.BOTH,
-    spacing: { before: o.before || 0, after: o.after ?? 120, line: o.line || 300, lineRule: LineRuleType.AUTO },
+    spacing: { before: o.before || 0, after: o.after ?? 80, line: o.line || 240, lineRule: LineRuleType.AUTO },
     indent: o.indent,
     heading: o.heading,
     shading: o.shade ? { type: ShadingType.CLEAR, color: 'auto', fill: o.shade } : undefined,
@@ -102,42 +105,49 @@ function cell(text, w, o = {}) {
     width: { size: w, type: WidthType.DXA },
     verticalAlign: VerticalAlign.CENTER,
     shading: o.fill ? { type: ShadingType.CLEAR, color: 'auto', fill: o.fill } : undefined,
-    margins: { top: 60, bottom: 60, left: 100, right: 100 },
+    margins: { top: 30, bottom: 30, left: 100, right: 100 },
     children: [para(text, { align: o.align || AlignmentType.CENTER, bold: o.bold, after: 0, size: o.size })],
   });
 }
 
 function table(widths, rows, o = {}) {
   const total = widths.reduce((a, b) => a + b, 0);
-  return new Table({
-    visuallyRightToLeft: true,
-    width: { size: total, type: WidthType.DXA },
-    columnWidths: widths,
-    alignment: AlignmentType.CENTER,
-    rows: rows.map((r, i) => new TableRow({
-      tableHeader: i === 0 && o.header,
-      children: r.map((t, j) => cell(t, widths[j], {
-        bold: i === 0 && o.header, fill: i === 0 && o.header ? GRAY : undefined,
-        align: (o.alignCols && o.alignCols[j]) || AlignmentType.CENTER, size: o.size,
-      })),
+  const trs = rows.map((r, i) => new TableRow({
+    tableHeader: i === 0 && o.header,
+    children: r.map((t, j) => cell(t, widths[j], {
+      bold: (i === 0 && o.header) || (o.boldCol0 && j === 0), fill: i === 0 && o.header ? GRAY : undefined,
+      align: (o.alignCols && o.alignCols[j]) || AlignmentType.CENTER, size: o.size,
     })),
-  });
+  }));
+  if (o.span) trs.push(new TableRow({ children: [new TableCell({ columnSpan: widths.length, width: { size: total, type: WidthType.DXA },
+    margins: { top: 60, bottom: 60, left: 100, right: 100 },
+    children: [para(o.span, { align: AlignmentType.RIGHT, bold: true, after: 0, size: o.size })] })] }));
+  return new Table({ visuallyRightToLeft: true, width: { size: total, type: WidthType.DXA }, columnWidths: widths, alignment: AlignmentType.CENTER, rows: trs });
 }
 
 // ---------- special pages ----------
 function titlePage(meta) {
+  const logo = new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 120 },
+    children: [new ImageRun({ type: 'png', data: fs.readFileSync(__dirname + '/logo.png'), transformation: { width: 105, height: 101 } })] });
+  const tp = meta.tp;
   return [
-    para('{ar}بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ{/ar}', { align: AlignmentType.CENTER, size: 28, after: 200 }),
-    para(meta.title, { align: AlignmentType.CENTER, size: 44, bold: true, after: 60 }),
-    para(meta.subtitle, { align: AlignmentType.CENTER, size: 30, after: 300 }),
-    para('مقالہ برائے: شہادۃ العالمیہ (سالِ دوم) 2027ء', { align: AlignmentType.CENTER, size: 30, bold: true, after: 300 }),
-    table([3000, 4000], [
-      ['مقالہ نگار', ''], ['ولدیت', ''], ['رول نمبر', ''], ['رجسٹریشن نمبر', ''],
-      ['نگرانِ مقالہ (مشرف)', ''], ['ادارہ / جامعہ', ''], ['الحاق نمبر', ''],
-    ], { size: 24 }),
-    para('', { after: 300 }),
-    para('تنظیم المدارس اہلِ سنت پاکستان', { align: AlignmentType.CENTER, size: 30, bold: true, after: 0 }),
-    para('1449ھ / 2027ء', { align: AlignmentType.CENTER, size: 26, after: 0 }),
+    para('{ar}بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ{/ar}', { align: AlignmentType.CENTER, after: 100 }),
+    para(meta.title, { align: AlignmentType.CENTER, size: H_TITLE, bold: true, after: 60 }),
+    para('(مقالہ برائے شہادۃ العالمیہ)', { align: AlignmentType.CENTER, size: 32, bold: true, after: 100 }),
+    logo,
+    table([3000, 6000], tp.rows, { size: 26, alignCols: [AlignmentType.RIGHT, AlignmentType.RIGHT], boldCol0: true, span: tp.footerRow }),
+    para('تنظیم المدارس اہلِ سنت پاکستان', { align: AlignmentType.CENTER, size: 32, bold: true, before: 300, after: 0 }),
+    para(tp.year, { align: AlignmentType.CENTER, size: 28, after: 0 }),
+  ];
+}
+
+function tasmiyaPage() {
+  return [
+    new Paragraph({ pageBreakBefore: true, children: [] }),
+    ...blank(6),
+    para('{ar}بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ{/ar}', { align: AlignmentType.CENTER, size: 44, after: 600 }),
+    para('{ar}اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ وَالصَّلٰوةُ وَالسَّلَامُ عَلٰى سَيِّدِ الْمُرْسَلِيْنَ وَعَلٰى اٰلِهٖ وَاَصْحَابِهٖ اَجْمَعِيْنَ{/ar}', { align: AlignmentType.CENTER, size: 36, line: 360, after: 400 }),
+    para('{ar}رَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوْا عَنْهُ{/ar}', { align: AlignmentType.CENTER, size: 36, after: 0 }),
   ];
 }
 
@@ -174,13 +184,15 @@ function tocPage() {
   ];
 }
 
-function baabPage(line1, line2) {
-  return [
+function baabPage(line1, line2, fusool) {
+  const out = [
     new Paragraph({ pageBreakBefore: true, children: [] }),
-    ...blank(9),
-    para(line1, { align: AlignmentType.CENTER, size: 60, bold: true, after: 300, heading: HeadingLevel.HEADING_1 }),
-    para(line2, { align: AlignmentType.CENTER, size: 40, bold: true }),
+    ...blank(5),
+    para(line1, { align: AlignmentType.CENTER, size: H_BAAB + 12, bold: true, after: 200, heading: HeadingLevel.HEADING_1 }),
+    para(line2, { align: AlignmentType.CENTER, size: H_BAAB, bold: true, after: 500 }),
   ];
+  for (const f of fusool) out.push(para(f, { align: AlignmentType.CENTER, size: H_FASL, bold: true, after: 200 }));
+  return out;
 }
 
 // ---------- indexes (page numbers filled by Word via PAGEREF) ----------
@@ -235,23 +247,28 @@ function parse(src, meta) {
     else if (b === '@toc') out.push(...tocPage());
     else if (b === '@fehrist-ayat') out.push(...fehristAyat());
     else if (b === '@fehrist-ahadees') out.push(...fehristAhadees());
-    else if (b.startsWith('@baab ')) { const [a, c] = b.slice(6).split('|'); out.push(...baabPage(a.trim(), c.trim())); }
-    else if (b.startsWith('@center ')) out.push(para(b.slice(8), { align: AlignmentType.CENTER, size: 34, line: 400 }));
+    else if (b.startsWith('@baab ')) {
+      const lines = b.split('\n'); const [a, c] = lines[0].slice(6).split('|');
+      out.push(...baabPage(a.trim(), c.trim(), lines.slice(1).map(s => s.replace(/^- /, '').trim()).filter(Boolean)));
+    }
+    else if (b === '@tasmiya') out.push(...tasmiyaPage());
+    else if (b === '@pagebreak') out.push(new Paragraph({ pageBreakBefore: true, children: [] }));
+    else if (b.startsWith('@center ')) out.push(para(b.slice(8), { align: AlignmentType.CENTER, size: 34, line: 300 }));
     else if (b.startsWith('@sign')) {
       out.push(...blank(2));
       for (const l of b.split('\n').slice(1)) out.push(para(l, { align: AlignmentType.LEFT, after: 60 }));
     }
-    else if (b.startsWith('# ')) out.push(para(b.slice(2), { align: AlignmentType.CENTER, size: 40, bold: true, after: 300, pageBreakBefore: true, heading: HeadingLevel.HEADING_1 }));
+    else if (b.startsWith('# ')) out.push(para(b.slice(2), { align: AlignmentType.CENTER, size: H_BAAB, bold: true, after: 300, pageBreakBefore: true, heading: HeadingLevel.HEADING_1 }));
     else if (b.startsWith('## ')) {
       const [a, c] = b.slice(3).split('|');
-      out.push(para(a.trim(), { align: AlignmentType.CENTER, size: 34, bold: true, after: 0, shade: GRAY, box: true, pageBreakBefore: true, keepNext: true }));
-      out.push(para(c.trim(), { align: AlignmentType.CENTER, size: 32, bold: true, after: 300, heading: HeadingLevel.HEADING_2 }));
+      out.push(para(a.trim(), { align: AlignmentType.CENTER, size: H_FASL, bold: true, after: 0, shade: GRAY, box: true, pageBreakBefore: true, keepNext: true }));
+      out.push(para(c.trim(), { align: AlignmentType.CENTER, size: H_FASL, bold: true, after: 300, heading: HeadingLevel.HEADING_2 }));
     }
-    else if (b.startsWith('### ')) out.push(para(b.slice(4), { size: 32, bold: true, before: 160, after: 80, keepNext: true, heading: HeadingLevel.HEADING_3 }));
-    else if (b.startsWith('#### ')) out.push(para(b.slice(5), { size: 30, bold: true, before: 100, after: 60, keepNext: true }));
+    else if (b.startsWith('### ')) out.push(para(b.slice(4), { align: AlignmentType.RIGHT, size: H_MABHAS, bold: true, before: 160, after: 80, keepNext: true, heading: HeadingLevel.HEADING_3 }));
+    else if (b.startsWith('#### ')) out.push(para(b.slice(5), { align: AlignmentType.RIGHT, size: H_ZAILI, bold: true, before: 100, after: 60, keepNext: true }));
     else if (b.startsWith('> ')) {
       const m = b.slice(2).replace(/\n/g, ' ').match(/^([\s\S]*?)(\[\^[\s\S]*\^\])?$/);
-      out.push(para('{ar}' + m[1].trim() + '{/ar}' + (m[2] || ''), { align: AlignmentType.CENTER, size: 30, line: 360, after: 60, keepNext: true, arCtx: m[1].trim() }));
+      out.push(para('{ar}' + m[1].trim() + '{/ar}' + (m[2] || ''), { align: AlignmentType.CENTER, size: BODY + 2, line: 300, after: 60, keepNext: true, arCtx: m[1].trim() }));
     }
     else if (b.startsWith('T: ')) out.push(para('**ترجمہ:** ' + b.slice(3), { after: 160 }));
     else if (b.startsWith('- ')) for (const l of b.split('\n')) out.push(para('٭ ' + l.replace(/^- /, ''), { indent: { start: 300 }, after: 80 }));
@@ -261,16 +278,32 @@ function parse(src, meta) {
       out.push(table(widths, lines.slice(1).map(l => l.split('|').map(s => s.trim())), { header: true, size: 24 }));
       out.push(...blank(1));
     }
+    else if (/^["“]/.test(b)) out.push(para(b.replace(/\n/g, ' '), { size: QUOTE, indent: { start: 400, end: 400 } }));
     else out.push(para(b.replace(/\n/g, ' '), { indent: { firstLine: 0 } }));
   }
   return out;
 }
 
 const [outFile, ...parts] = process.argv.slice(2);
-const meta = { title: 'صحابۂ کرام علیہم الرضوان کی عسکری مہمات', subtitle: '(تفصیلی مطالعہ)' };
+const meta = {
+  title: 'صحابۂ کرام علیہم الرضوان کی عسکری مہمات کا تفصیلی مطالعہ', subtitle: '',
+  tp: {
+    rows: [
+      ['مقالہ نگار', 'محمد حسین بن سرفراز'],
+      ['شہادۃ العالیہ اول رول نمبر', '414089'],
+      ['رجسٹریشن نمبر', ''],
+      ['مقالہ نگران', 'علامہ مفتی علی اشرف اختر القادری'],
+      ['منتظم', 'حبیبیہ اسلامک اکیڈمی'],
+      ['الحاق نمبر', '08113'],
+      ['درجہ الحاق', 'فوقانی'],
+    ],
+    footerRow: 'شعبہ امتحانات شہادۃ العالمیہ تنظیم المدارس اہلسنت پاکستان ۱۴۴۸ھ بمطابق ۲۰۲۷ء',
+    year: '۱۴۴۹ھ / ۲۰۲۷ء',
+  },
+};
 const children = parts.flatMap(p => parse(fs.readFileSync(p, 'utf8'), meta));
 
-const pageBorder = { style: BorderStyle.SINGLE, size: 6, color: '7F7F7F', space: 18 };
+
 const doc = new Document({
   features: { updateFields: true },
   styles: {
@@ -287,13 +320,13 @@ const doc = new Document({
       titlePage: true,
       page: {
         size: { width: 11906, height: 16838 },
-        margin: { top: 1300, bottom: 1300, left: 1300, right: 1300, header: 700, footer: 600 },
-        borders: { pageBorderTop: pageBorder, pageBorderBottom: pageBorder, pageBorderLeft: pageBorder, pageBorderRight: pageBorder },
+        // A4; جلد بندی (دائیں) 1.25 انچ، دوسری جانب 0.75 انچ، اوپر 1 انچ، نیچے 0.75 انچ
+        margin: { top: 1440, bottom: 1080, right: 1800, left: 1080, header: 600, footer: 500 },
       },
     },
     headers: {
       first: new Header({ children: [] }),
-      default: new Header({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: [PageNumber.CURRENT], size: 24, font: font('Times New Roman') })] })] }),
+      default: new Header({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: [PageNumber.CURRENT], size: 26, font: font(UR) })] })] }),
     },
     children,
   }],
