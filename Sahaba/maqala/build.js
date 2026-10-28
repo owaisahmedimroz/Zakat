@@ -121,7 +121,7 @@ function table(widths, rows, o = {}) {
   }));
   if (o.span) trs.push(new TableRow({ children: [new TableCell({ columnSpan: widths.length, width: { size: total, type: WidthType.DXA },
     margins: { top: 60, bottom: 60, left: 100, right: 100 },
-    children: [para(o.span, { align: AlignmentType.RIGHT, bold: true, after: 0, size: o.size })] })] }));
+    children: [para(o.span, { align: AlignmentType.BOTH, bold: true, after: 0, size: o.size })] })] }));
   return new Table({ visuallyRightToLeft: true, width: { size: total, type: WidthType.DXA }, columnWidths: widths, alignment: AlignmentType.CENTER, rows: trs });
 }
 
@@ -135,7 +135,7 @@ function titlePage(meta) {
     para(meta.title, { align: AlignmentType.CENTER, size: H_TITLE, bold: true, after: 60 }),
     para('(مقالہ برائے شہادۃ العالمیہ)', { align: AlignmentType.CENTER, size: 32, bold: true, after: 100 }),
     logo,
-    table([3000, 6000], tp.rows, { size: 26, alignCols: [AlignmentType.RIGHT, AlignmentType.RIGHT], boldCol0: true, span: tp.footerRow }),
+    table([3000, 6000], tp.rows, { size: 26, alignCols: [AlignmentType.BOTH, AlignmentType.BOTH], boldCol0: true, span: tp.footerRow }),
     para('تنظیم المدارس اہلِ سنت پاکستان', { align: AlignmentType.CENTER, size: 32, bold: true, before: 300, after: 0 }),
     para(tp.year, { align: AlignmentType.CENTER, size: 28, after: 0 }),
   ];
@@ -231,7 +231,7 @@ function fehristAyat() {
 }
 function fehristAhadees() {
   return [indexTable([800, 6900, 1400], ['نمبر شمار', 'حدیث / اثر (مختصر)', 'صفحہ'],
-    ahadees.map((h, i) => [String(i + 1), { t: h.label, size: 24, align: AlignmentType.RIGHT }, { bm: h.bm }]))];
+    ahadees.map((h, i) => [String(i + 1), { t: h.label, size: 24, align: AlignmentType.BOTH }, { bm: h.bm }]))];
 }
 
 // ---------- markup parser ----------
@@ -257,7 +257,7 @@ function parse(src, meta) {
     else if (b.startsWith('@center ')) out.push(para(b.slice(8), { align: AlignmentType.CENTER, size: 34, line: 300 }));
     else if (b.startsWith('@sign')) {
       out.push(...blank(2));
-      for (const l of b.split('\n').slice(1)) out.push(para(l, { align: AlignmentType.LEFT, after: 60 }));
+      for (const l of b.split('\n').slice(1)) out.push(para(l, { align: AlignmentType.BOTH, after: 60 }));
     }
     else if (b.startsWith('# ')) out.push(para(b.slice(2), { align: AlignmentType.CENTER, size: H_BAAB, bold: true, after: 300, pageBreakBefore: true, heading: HeadingLevel.HEADING_1 }));
     else if (b.startsWith('## ')) {
@@ -265,8 +265,8 @@ function parse(src, meta) {
       out.push(para(a.trim(), { align: AlignmentType.CENTER, size: H_FASL, bold: true, after: 0, shade: GRAY, box: true, pageBreakBefore: true, keepNext: true }));
       out.push(para(c.trim(), { align: AlignmentType.CENTER, size: H_FASL, bold: true, after: 300, heading: HeadingLevel.HEADING_2 }));
     }
-    else if (b.startsWith('### ')) out.push(para(b.slice(4), { align: AlignmentType.RIGHT, size: H_MABHAS, bold: true, before: 160, after: 80, keepNext: true, heading: HeadingLevel.HEADING_3 }));
-    else if (b.startsWith('#### ')) out.push(para(b.slice(5), { align: AlignmentType.RIGHT, size: H_ZAILI, bold: true, before: 100, after: 60, keepNext: true }));
+    else if (b.startsWith('### ')) out.push(para(b.slice(4), { align: AlignmentType.BOTH, size: H_MABHAS, bold: true, before: 160, after: 80, keepNext: true, heading: HeadingLevel.HEADING_3 }));
+    else if (b.startsWith('#### ')) out.push(para(b.slice(5), { align: AlignmentType.BOTH, size: H_ZAILI, bold: true, before: 100, after: 60, keepNext: true }));
     else if (b.startsWith('> ')) {
       const m = b.slice(2).replace(/\n/g, ' ').match(/^([\s\S]*?)(\[\^[\s\S]*\^\])?$/);
       out.push(para('{ar}' + m[1].trim() + '{/ar}' + (m[2] || ''), { align: AlignmentType.CENTER, size: BODY + 2, line: 300, after: 60, keepNext: true, arCtx: m[1].trim() }));
@@ -314,7 +314,12 @@ const doc = new Document({
       id: 'Heading' + n, name: 'Heading ' + n, basedOn: 'Normal', next: 'Normal', quickFormat: true,
       run: { font: font(UR), color: '000000', bold: true, boldComplexScript: true },
       paragraph: { bidirectional: true, outlineLevel: n - 1 },
-    })),
+    })).concat([1, 2, 3].map(n => ({
+      // fehrist-e-unwanaat entries keep the Urdu font and right-to-left layout after "Update fields"
+      id: 'TOC' + n, name: 'toc ' + n, basedOn: 'Normal', next: 'Normal', uiPriority: 39,
+      run: { font: font(UR), size: BODY - 2, sizeComplexScript: BODY - 2, bold: n === 1, boldComplexScript: n === 1, rightToLeft: true },
+      paragraph: { bidirectional: true, alignment: AlignmentType.BOTH, indent: { start: (n - 1) * 400 }, spacing: { after: 60 } },
+    }))),
   },
   footnotes,
   sections: [{
