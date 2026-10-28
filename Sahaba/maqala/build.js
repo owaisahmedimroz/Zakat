@@ -238,8 +238,9 @@ function fehristAhadees() {
 function parse(src, meta) {
   const out = [];
   const blocks = src.replace(/\r/g, '').split(/\n\s*\n/);
-  for (let b of blocks) {
-    b = b.trim();
+  for (let bi = 0; bi < blocks.length; bi++) {
+    let b = blocks[bi].trim();
+    const nextB = (blocks.slice(bi + 1).find(x => x.trim() && !x.trim().startsWith('%%')) || '').trim();
     if (!b || b.startsWith('%%')) continue;
     if (b === '@title-page') out.push(...titlePage(meta));
     else if (b === '@result-page') out.push(...resultPage());
@@ -276,7 +277,8 @@ function parse(src, meta) {
       const lines = b.split('\n');
       const widths = lines[0].slice(7).split(',').map(Number);
       out.push(table(widths, lines.slice(1).map(l => l.split('|').map(s => s.trim())), { header: true, size: 24 }));
-      out.push(...blank(1));
+      // no spacer before a block that starts on a new page (avoids an empty page when the table ends at a page bottom)
+      if (!/^(# |## |@pagebreak|@baab |@toc|@fehrist)/.test(nextB)) out.push(...blank(1));
     }
     else if (/^["“]/.test(b)) out.push(para(b.replace(/\n/g, ' '), { size: QUOTE, indent: { start: 400, end: 400 } }));
     else out.push(para(b.replace(/\n/g, ' '), { indent: { firstLine: 0 } }));
@@ -297,7 +299,7 @@ const meta = {
       ['الحاق نمبر', '08113'],
       ['درجہ الحاق', 'فوقانی'],
     ],
-    footerRow: 'شعبہ امتحانات شہادۃ العالمیہ تنظیم المدارس اہلسنت پاکستان ۱۴۴۸ھ بمطابق ۲۰۲۷ء',
+    footerRow: 'شعبہ امتحانات شہادۃ العالمیہ تنظیم المدارس اہلسنت پاکستان ۱۴۴۹ھ بمطابق ۲۰۲۷ء',
     year: '۱۴۴۹ھ / ۲۰۲۷ء',
   },
 };
